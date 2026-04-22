@@ -1,0 +1,53 @@
+Measure Type Key:
+
+GMDA_c - Configural GMDA Measures
+BDR_c - Configural BDR parameters
+GMDA_i - GMDA Measures (individual landmarks)
+
+Configural GMDA Measures
+
+Measure Type,Filename,Measure,Score
+GMDA_c,5,Canonical Organization,0,0111111111111111
+GMDA_c,5,SQRT(Canonical Organization),0,105409255338946
+GMDA_c,5,Canonical Accuracy,0,5
+GMDA_c,5,Num Landmarks Missing,8
+GMDA_c,5,Scaling Bias,9,99200722162641E-16
+GMDA_c,5,Rotational Bias,-108,147735345355
+GMDA_c,5,Distance Accuracy,0.999999999999999
+GMDA_c,5,Angle Accuracy,0.399179248081359
+
+Configural BDR Parameters
+
+Measure Type,Filename,Measure,Score
+BDR_c,5,r,1
+BDR_c,5,alpha 1,394.291697104602
+BDR_c,5,alpha 2,-175.655989246349
+BDR_c,5,beta 1,-0.2649681871957
+BDR_c,5,beta 2,0.808389853098891
+BDR_c,5,scale,0.850706938269003
+BDR_c,5,theta,108.147735345355
+BDR_c,5,DMax,146.500853239836
+BDR_c,5,D,3.30362473977828E-06
+BDR_c,5,DI,2.25502081845894E-06
+
+GMDA measures for individual landmarks
+
+Measure Type,Filename,Landmark,Measure,Score
+a is missing. Unable to calculate GMDA measures
+GMDA_i,5,b,Canonical Accuracy,0.5
+GMDA_i,5,b,Scaling Bias,9.99200722162641E-16
+GMDA_i,5,b,Rotational Bias,-108.147735345355
+GMDA_i,5,b,Distance Accuracy,0.999999999999999
+GMDA_i,5,b,Angle Accuracy,0.399179248081359
+c is missing. Unable to calculate GMDA measures
+d is missing. Unable to calculate GMDA measures
+GMDA_i,5,e,Canonical Accuracy,0.5
+GMDA_i,5,e,Scaling Bias,9.99200722162641E-16
+GMDA_i,5,e,Rotational Bias,-108.147735345355
+GMDA_i,5,e,Distance Accuracy,0.999999999999999
+GMDA_i,5,e,Angle Accuracy,0.399179248081359
+f is missing. Unable to calculate GMDA measures
+g is missing. Unable to calculate GMDA measures
+h is missing. Unable to calculate GMDA measures
+i is missing. Unable to calculate GMDA measures
+j is missing. Unable to calculate GMDA measures

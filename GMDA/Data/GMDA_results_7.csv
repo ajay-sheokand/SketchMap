@@ -1,0 +1,77 @@
+Measure Type Key:
+
+GMDA_c - Configural GMDA Measures
+BDR_c - Configural BDR parameters
+GMDA_i - GMDA Measures (individual landmarks)
+
+Configural GMDA Measures
+
+Measure Type,Filename,Measure,Score
+GMDA_c,7,Canonical Organization,0,566666666666667
+GMDA_c,7,SQRT(Canonical Organization),0,752772652709081
+GMDA_c,7,Canonical Accuracy,0,910714285714286
+GMDA_c,7,Num Landmarks Missing,2
+GMDA_c,7,Scaling Bias,-0,00563840284097973
+GMDA_c,7,Rotational Bias,1,64160720385569
+GMDA_c,7,Distance Accuracy,0.932839525053681
+GMDA_c,7,Angle Accuracy,0.915081412404935
+
+Configural BDR Parameters
+
+Measure Type,Filename,Measure,Score
+BDR_c,7,r,0.976834913183962
+BDR_c,7,alpha 1,-305.215245401195
+BDR_c,7,alpha 2,-278.347973440215
+BDR_c,7,beta 1,0.863631492594948
+BDR_c,7,beta 2,-0.0617835500533896
+BDR_c,7,scale,0.865838646665172
+BDR_c,7,theta,-4.09192600801669
+BDR_c,7,DMax,646.054467518026
+BDR_c,7,D,138.25196139042
+BDR_c,7,DI,21.3994281196674
+
+GMDA measures for individual landmarks
+
+Measure Type,Filename,Landmark,Measure,Score
+GMDA_i,7,a,Canonical Accuracy,1
+GMDA_i,7,a,Scaling Bias,0.0591126128602884
+GMDA_i,7,a,Rotational Bias,-0.352475789849251
+GMDA_i,7,a,Distance Accuracy,0.928376549529605
+GMDA_i,7,a,Angle Accuracy,0.979634856197506
+b is missing. Unable to calculate GMDA measures
+GMDA_i,7,c,Canonical Accuracy,0.785714285714286
+GMDA_i,7,c,Scaling Bias,-0.00377914362402686
+GMDA_i,7,c,Rotational Bias,-6.73576673551373
+GMDA_i,7,c,Distance Accuracy,0.928427162346643
+GMDA_i,7,c,Angle Accuracy,0.865220623957051
+GMDA_i,7,d,Canonical Accuracy,0.785714285714286
+GMDA_i,7,d,Scaling Bias,0.00201245047461924
+GMDA_i,7,d,Rotational Bias,-13.6495105347191
+GMDA_i,7,d,Distance Accuracy,0.945108766217204
+GMDA_i,7,d,Angle Accuracy,0.854642249728521
+GMDA_i,7,e,Canonical Accuracy,1
+GMDA_i,7,e,Scaling Bias,0.0621853937840484
+GMDA_i,7,e,Rotational Bias,-0.963057681869112
+GMDA_i,7,e,Distance Accuracy,0.931734769516609
+GMDA_i,7,e,Angle Accuracy,0.873751331849296
+f is missing. Unable to calculate GMDA measures
+GMDA_i,7,g,Canonical Accuracy,1
+GMDA_i,7,g,Scaling Bias,-0.0532610290966354
+GMDA_i,7,g,Rotational Bias,17.2398958903806
+GMDA_i,7,g,Distance Accuracy,0.935780330609051
+GMDA_i,7,g,Angle Accuracy,0.904113157589394
+GMDA_i,7,h,Canonical Accuracy,0.928571428571429
+GMDA_i,7,h,Scaling Bias,-0.0558392260553423
+GMDA_i,7,h,Rotational Bias,8.78517396336132
+GMDA_i,7,h,Distance Accuracy,0.944160773944658
+GMDA_i,7,h,Angle Accuracy,0.943881854795842
+GMDA_i,7,i,Canonical Accuracy,0.785714285714286
+GMDA_i,7,i,Scaling Bias,-0.0623635302984846
+GMDA_i,7,i,Rotational Bias,8.24033085986986
+GMDA_i,7,i,Distance Accuracy,0.937636469701515
+GMDA_i,7,i,Angle Accuracy,0.926245294818697
+GMDA_i,7,j,Canonical Accuracy,1
+GMDA_i,7,j,Scaling Bias,0.00682524922769529
+GMDA_i,7,j,Rotational Bias,-3.85717058790561
+GMDA_i,7,j,Distance Accuracy,0.911491378564162
+GMDA_i,7,j,Angle Accuracy,0.97316193030317
