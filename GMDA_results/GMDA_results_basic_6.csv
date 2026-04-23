@@ -1,0 +1,65 @@
+Measure Type Key:
+
+GMDA_c - Configural GMDA Measures
+BDR_c - Configural BDR parameters
+GMDA_i - GMDA Measures (individual landmarks)
+
+Configural GMDA Measures
+
+Measure Type,Filename,Measure,Score
+GMDA_c,6,Canonical Organization,0,188888888888889
+GMDA_c,6,SQRT(Canonical Organization),0,434613493680177
+GMDA_c,6,Canonical Accuracy,0,85
+GMDA_c,6,Num Landmarks Missing,5
+GMDA_c,6,Scaling Bias,-0,0720073337154927
+GMDA_c,6,Rotational Bias,-12,0869684450081
+GMDA_c,6,Distance Accuracy,0.923248147783543
+GMDA_c,6,Angle Accuracy,0.908870072273163
+
+Configural BDR Parameters
+
+Measure Type,Filename,Measure,Score
+BDR_c,6,r,0.989621039221598
+BDR_c,6,alpha 1,-293.447898938267
+BDR_c,6,alpha 2,-330.725059141381
+BDR_c,6,beta 1,0.801349644997703
+BDR_c,6,beta 2,0.0834478616335604
+BDR_c,6,scale,0.805682815473408
+BDR_c,6,theta,5.94501980170868
+BDR_c,6,DMax,417.800430827925
+BDR_c,6,D,60.0386614586481
+BDR_c,6,DI,14.3701770100317
+
+GMDA measures for individual landmarks
+
+Measure Type,Filename,Landmark,Measure,Score
+a is missing. Unable to calculate GMDA measures
+b is missing. Unable to calculate GMDA measures
+GMDA_i,6,c,Canonical Accuracy,0.75
+GMDA_i,6,c,Scaling Bias,-0.0961390817643512
+GMDA_i,6,c,Rotational Bias,-24.42628534621
+GMDA_i,6,c,Distance Accuracy,0.903860918235649
+GMDA_i,6,c,Angle Accuracy,0.840325365815545
+GMDA_i,6,d,Canonical Accuracy,0.75
+GMDA_i,6,d,Scaling Bias,-0.0936374419553144
+GMDA_i,6,d,Rotational Bias,-28.9343656150028
+GMDA_i,6,d,Distance Accuracy,0.900373973730429
+GMDA_i,6,d,Angle Accuracy,0.820739207196765
+e is missing. Unable to calculate GMDA measures
+GMDA_i,6,f,Canonical Accuracy,0.875
+GMDA_i,6,f,Scaling Bias,-0.00369149705963127
+GMDA_i,6,f,Rotational Bias,-5.91802118087354
+GMDA_i,6,f,Distance Accuracy,0.984447206687957
+GMDA_i,6,f,Angle Accuracy,0.945633077355459
+g is missing. Unable to calculate GMDA measures
+h is missing. Unable to calculate GMDA measures
+GMDA_i,6,i,Canonical Accuracy,1
+GMDA_i,6,i,Scaling Bias,-0.0836640495052523
+GMDA_i,6,i,Rotational Bias,-4.22548778065405
+GMDA_i,6,i,Distance Accuracy,0.910463238556593
+GMDA_i,6,i,Angle Accuracy,0.955050044464674
+GMDA_i,6,j,Canonical Accuracy,0.875
+GMDA_i,6,j,Scaling Bias,-0.0829045982929143
+GMDA_i,6,j,Rotational Bias,-2.87528993154156
+GMDA_i,6,j,Distance Accuracy,0.917095401707086
+GMDA_i,6,j,Angle Accuracy,0.982602666533372

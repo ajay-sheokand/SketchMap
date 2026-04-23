@@ -1,0 +1,61 @@
+Measure Type Key:
+
+GMDA_c - Configural GMDA Measures
+BDR_c - Configural BDR parameters
+GMDA_i - GMDA Measures (individual landmarks)
+
+Configural GMDA Measures
+
+Measure Type,Filename,Measure,Score
+GMDA_c,GMDA_results_3,Canonical Organization,0,111111111111111
+GMDA_c,GMDA_results_3,SQRT(Canonical Organization),0,333333333333333
+GMDA_c,GMDA_results_3,Canonical Accuracy,0,833333333333333
+GMDA_c,GMDA_results_3,Num Landmarks Missing,6
+GMDA_c,GMDA_results_3,Scaling Bias,-0,0867048917308495
+GMDA_c,GMDA_results_3,Rotational Bias,8,23253920191037
+GMDA_c,GMDA_results_3,Distance Accuracy,0.91329510826915
+GMDA_c,GMDA_results_3,Angle Accuracy,0.886959731962936
+
+Configural BDR Parameters
+
+Measure Type,Filename,Measure,Score
+BDR_c,GMDA_results_3,r,0.977091205941484
+BDR_c,GMDA_results_3,alpha 1,-293.655487188971
+BDR_c,GMDA_results_3,alpha 2,-297.993865764747
+BDR_c,GMDA_results_3,beta 1,0.753025728081682
+BDR_c,GMDA_results_3,beta 2,0.00944022015546742
+BDR_c,GMDA_results_3,scale,0.753084898872319
+BDR_c,GMDA_results_3,theta,0.718244303966107
+BDR_c,GMDA_results_3,DMax,313.257082920722
+BDR_c,GMDA_results_3,D,66.667683606252
+BDR_c,GMDA_results_3,DI,21.2820993494101
+
+GMDA measures for individual landmarks
+
+Measure Type,Filename,Landmark,Measure,Score
+a is missing. Unable to calculate GMDA measures
+GMDA_i,GMDA_results_3,b,Canonical Accuracy,1
+GMDA_i,GMDA_results_3,b,Scaling Bias,-0.060579782168282
+GMDA_i,GMDA_results_3,b,Rotational Bias,-2.27741313547566
+GMDA_i,GMDA_results_3,b,Distance Accuracy,0.939420217831717
+GMDA_i,GMDA_results_3,b,Angle Accuracy,0.970831951680498
+c is missing. Unable to calculate GMDA measures
+d is missing. Unable to calculate GMDA measures
+e is missing. Unable to calculate GMDA measures
+GMDA_i,GMDA_results_3,f,Canonical Accuracy,0.666666666666667
+GMDA_i,GMDA_results_3,f,Scaling Bias,-0.0721135749184222
+GMDA_i,GMDA_results_3,f,Rotational Bias,5.06277986479018
+GMDA_i,GMDA_results_3,f,Distance Accuracy,0.927886425081578
+GMDA_i,GMDA_results_3,f,Angle Accuracy,0.871027994554649
+GMDA_i,GMDA_results_3,g,Canonical Accuracy,0.833333333333333
+GMDA_i,GMDA_results_3,g,Scaling Bias,-0.0736435991873883
+GMDA_i,GMDA_results_3,g,Rotational Bias,29.0180063698033
+GMDA_i,GMDA_results_3,g,Distance Accuracy,0.926356400812611
+GMDA_i,GMDA_results_3,g,Angle Accuracy,0.839814020461638
+GMDA_i,GMDA_results_3,h,Canonical Accuracy,0.833333333333333
+GMDA_i,GMDA_results_3,h,Scaling Bias,-0.140482610649305
+GMDA_i,GMDA_results_3,h,Rotational Bias,1.2557843364052
+GMDA_i,GMDA_results_3,h,Distance Accuracy,0.859517389350695
+GMDA_i,GMDA_results_3,h,Angle Accuracy,0.866164961154957
+i is missing. Unable to calculate GMDA measures
+j is missing. Unable to calculate GMDA measures

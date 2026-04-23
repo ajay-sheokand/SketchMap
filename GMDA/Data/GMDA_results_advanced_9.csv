@@ -1,0 +1,112 @@
+Measure Type Key:
+
+GMDA_c - Configural GMDA Measures
+BDR_c - Configural BDR parameters
+GMDA_i - GMDA Measures (individual landmarks)
+BDR_i - BDR parameters (individual landmarks)
+
+Configural GMDA Measures
+
+Measure Type,Filename,Measure,Score
+GMDA_c,9,Canonical Organization,0,0633680555555556
+GMDA_c,9,SQRT(Canonical Organization),0,251730124449887
+GMDA_c,9,Canonical Accuracy,0,475260416666667
+GMDA_c,9,Num Landmarks Missing,6
+GMDA_c,9,Scaling Bias,0,0524235973351576
+GMDA_c,9,Rotational Bias,-79,4950411783036
+GMDA_c,9,Distance Accuracy,0.891797289515943
+GMDA_c,9,Angle Accuracy,0.546049408444816
+
+Configural BDR Parameters
+
+Measure Type,Filename,Measure,Score
+BDR_c,9,r,0.913901967908997
+BDR_c,9,alpha 1,98.2231152581296
+BDR_c,9,alpha 2,-20.0586932224625
+BDR_c,9,beta 1,0.241335535945193
+BDR_c,9,beta 2,0.683259050167891
+BDR_c,9,scale,0.724628022192271
+BDR_c,9,theta,70.5461501938349
+BDR_c,9,DMax,781.277619511784
+BDR_c,9,D,317.147900478216
+BDR_c,9,DI,40.5934961603533
+
+GMDA measures for individual landmarks
+
+Measure Type,Filename,Landmark,Measure,Score
+25 is missing. Unable to calculate GMDA measures
+GMDA_i,9,24,Canonical Accuracy,0.3984375
+GMDA_i,9,24,Scaling Bias,-0.0173626569385167
+GMDA_i,9,24,Rotational Bias,-92.7740472409158
+GMDA_i,9,24,Distance Accuracy,0.913846293131149
+GMDA_i,9,24,Angle Accuracy,0.479277989263322
+GMDA_i,9,33,Canonical Accuracy,0.434895833333333
+GMDA_i,9,33,Scaling Bias,0.0736081203843321
+GMDA_i,9,33,Rotational Bias,-83.3490727220145
+GMDA_i,9,33,Distance Accuracy,0.908603363417606
+GMDA_i,9,33,Angle Accuracy,0.526069715260181
+GMDA_i,9,32,Canonical Accuracy,0.434895833333333
+GMDA_i,9,32,Scaling Bias,0.0749011904925851
+GMDA_i,9,32,Rotational Bias,-87.0425880341439
+GMDA_i,9,32,Distance Accuracy,0.90056756261636
+GMDA_i,9,32,Angle Accuracy,0.509298731175611
+31 is missing. Unable to calculate GMDA measures
+GMDA_i,9,28,Canonical Accuracy,0.6328125
+GMDA_i,9,28,Scaling Bias,0.0785477354022298
+GMDA_i,9,28,Rotational Bias,-59.5583966258679
+GMDA_i,9,28,Distance Accuracy,0.844171938898657
+GMDA_i,9,28,Angle Accuracy,0.669551198080152
+30 is missing. Unable to calculate GMDA measures
+29 is missing. Unable to calculate GMDA measures
+27 is missing. Unable to calculate GMDA measures
+26 is missing. Unable to calculate GMDA measures
+
+BDR Parameters for individual landmarks
+
+Measure Type,Filename,Landmark,Measure,Score
+25 is missing. Unable to calculate BDR parameters
+BDR_i,9,24,r,0.999851934702515
+BDR_i,9,24,alpha 1,54.9933874279472
+BDR_i,9,24,alpha 2,-18.8219486944979
+BDR_i,9,24,beta 1,-9.07323278376762E-07
+BDR_i,9,24,beta 2,0.341756922649783
+BDR_i,9,24,scale,0.341756922650988
+BDR_i,9,24,theta,90.000152113362
+BDR_i,9,24,DMax,126.869026952996
+BDR_i,9,24,D,2.18313791399266
+BDR_i,9,24,DI,1.72078084495871
+BDR_i,9,33,r,0.986382401599378
+BDR_i,9,33,alpha 1,295.571120887178
+BDR_i,9,33,alpha 2,101.649573824581
+BDR_i,9,33,beta 1,-4.58253139034002E-05
+BDR_i,9,33,beta 2,1.78649986252406
+BDR_i,9,33,scale,1.78649986311179
+BDR_i,9,33,theta,90.0014696878158
+BDR_i,9,33,DMax,94.5932080014205
+BDR_i,9,33,D,15.5575657385492
+BDR_i,9,33,DI,16.4468105768393
+BDR_i,9,32,r,0.999777640781798
+BDR_i,9,32,alpha 1,380.984650487451
+BDR_i,9,32,alpha 2,62.3965982161377
+BDR_i,9,32,beta 1,0
+BDR_i,9,32,beta 2,2.22422733872641
+BDR_i,9,32,scale,2.22422733872641
+BDR_i,9,32,theta,90
+BDR_i,9,32,DMax,94.5932080014205
+BDR_i,9,32,D,1.9947036280583
+BDR_i,9,32,DI,2.10871760267222
+31 is missing. Unable to calculate BDR parameters
+BDR_i,9,28,r,0.978142065028249
+BDR_i,9,28,alpha 1,165.650102550023
+BDR_i,9,28,alpha 2,-70.7381728331261
+BDR_i,9,28,beta 1,0
+BDR_i,9,28,beta 2,0.741108832221702
+BDR_i,9,28,scale,0.741108832221702
+BDR_i,9,28,theta,90
+BDR_i,9,28,DMax,258.166370776676
+BDR_i,9,28,D,53.6825297625945
+BDR_i,9,28,DI,20.7937732560187
+30 is missing. Unable to calculate BDR parameters
+29 is missing. Unable to calculate BDR parameters
+27 is missing. Unable to calculate BDR parameters
+26 is missing. Unable to calculate BDR parameters

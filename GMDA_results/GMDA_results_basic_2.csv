@@ -1,0 +1,85 @@
+Measure Type Key:
+
+GMDA_c - Configural GMDA Measures
+BDR_c - Configural BDR parameters
+GMDA_i - GMDA Measures (individual landmarks)
+
+Configural GMDA Measures
+
+Measure Type,Filename,Measure,Score
+GMDA_c,2,Canonical Organization,0,933333333333333
+GMDA_c,2,SQRT(Canonical Organization),0,966091783079296
+GMDA_c,2,Canonical Accuracy,0,933333333333333
+GMDA_c,2,Num Landmarks Missing,0
+GMDA_c,2,Scaling Bias,0,00346980147650652
+GMDA_c,2,Rotational Bias,-3,76002618083008
+GMDA_c,2,Distance Accuracy,0.954598616574195
+GMDA_c,2,Angle Accuracy,0.947995437111911
+
+Configural BDR Parameters
+
+Measure Type,Filename,Measure,Score
+BDR_c,2,r,0.984212712018739
+BDR_c,2,alpha 1,-367.179639972028
+BDR_c,2,alpha 2,-291.932491866911
+BDR_c,2,beta 1,0.748415257096841
+BDR_c,2,beta 2,0.0276113910380183
+BDR_c,2,scale,0.748924419397835
+BDR_c,2,theta,2.11286312074204
+BDR_c,2,DMax,601.299675702557
+BDR_c,2,D,106.423821345124
+BDR_c,2,DI,17.6989653654442
+
+GMDA measures for individual landmarks
+
+Measure Type,Filename,Landmark,Measure,Score
+GMDA_i,2,a,Canonical Accuracy,0.944444444444444
+GMDA_i,2,a,Scaling Bias,-0.0036577071733551
+GMDA_i,2,a,Rotational Bias,9.0797353235066
+GMDA_i,2,a,Distance Accuracy,0.930677028878898
+GMDA_i,2,a,Angle Accuracy,0.94951377727355
+GMDA_i,2,b,Canonical Accuracy,1
+GMDA_i,2,b,Scaling Bias,-0.0105849955302623
+GMDA_i,2,b,Rotational Bias,-5.46979007031579
+GMDA_i,2,b,Distance Accuracy,0.962944153233336
+GMDA_i,2,b,Angle Accuracy,0.941624103959433
+GMDA_i,2,c,Canonical Accuracy,0.944444444444444
+GMDA_i,2,c,Scaling Bias,0.0111353108068171
+GMDA_i,2,c,Rotational Bias,-8.13771733073386
+GMDA_i,2,c,Distance Accuracy,0.949428551438796
+GMDA_i,2,c,Angle Accuracy,0.937409540022304
+GMDA_i,2,d,Canonical Accuracy,0.944444444444444
+GMDA_i,2,d,Scaling Bias,0.00669763213566276
+GMDA_i,2,d,Rotational Bias,-8.75999109357927
+GMDA_i,2,d,Distance Accuracy,0.955548602157203
+GMDA_i,2,d,Angle Accuracy,0.936417550728498
+GMDA_i,2,e,Canonical Accuracy,0.944444444444444
+GMDA_i,2,e,Scaling Bias,0.0194545731976628
+GMDA_i,2,e,Rotational Bias,-9.09573561777497
+GMDA_i,2,e,Distance Accuracy,0.957985308440017
+GMDA_i,2,e,Angle Accuracy,0.933157348971846
+GMDA_i,2,f,Canonical Accuracy,0.888888888888889
+GMDA_i,2,f,Scaling Bias,0.00927372420547241
+GMDA_i,2,f,Rotational Bias,-1.48587161905064
+GMDA_i,2,f,Distance Accuracy,0.951572428202362
+GMDA_i,2,f,Angle Accuracy,0.959395595956617
+GMDA_i,2,g,Canonical Accuracy,1
+GMDA_i,2,g,Scaling Bias,0.00327711255521634
+GMDA_i,2,g,Rotational Bias,4.3875140581436
+GMDA_i,2,g,Distance Accuracy,0.938703994451279
+GMDA_i,2,g,Angle Accuracy,0.972502436726486
+GMDA_i,2,h,Canonical Accuracy,0.888888888888889
+GMDA_i,2,h,Scaling Bias,-0.0188286524269239
+GMDA_i,2,h,Rotational Bias,-7.68457143562386
+GMDA_i,2,h,Distance Accuracy,0.964608899697041
+GMDA_i,2,h,Angle Accuracy,0.947393732642943
+GMDA_i,2,i,Canonical Accuracy,0.944444444444444
+GMDA_i,2,i,Scaling Bias,-0.0198320418435059
+GMDA_i,2,i,Rotational Bias,-3.27082545230086
+GMDA_i,2,i,Distance Accuracy,0.97443638116448
+GMDA_i,2,i,Angle Accuracy,0.950721478999763
+GMDA_i,2,j,Canonical Accuracy,0.833333333333333
+GMDA_i,2,j,Scaling Bias,0.0377630588382811
+GMDA_i,2,j,Rotational Bias,-7.31562259415789
+GMDA_i,2,j,Distance Accuracy,0.96008081807854
+GMDA_i,2,j,Angle Accuracy,0.951818805837674
