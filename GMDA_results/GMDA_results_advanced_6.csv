@@ -1,0 +1,125 @@
+Measure Type Key:
+
+GMDA_c - Configural GMDA Measures
+BDR_c - Configural BDR parameters
+GMDA_i - GMDA Measures (individual landmarks)
+BDR_i - BDR parameters (individual landmarks)
+
+Configural GMDA Measures
+
+Measure Type,Filename,Measure,Score
+GMDA_c,6,Canonical Organization,0,202604166666667
+GMDA_c,6,SQRT(Canonical Organization),0,450115725860213
+GMDA_c,6,Canonical Accuracy,0,91171875
+GMDA_c,6,Num Landmarks Missing,5
+GMDA_c,6,Scaling Bias,-0,0605055583681299
+GMDA_c,6,Rotational Bias,-3,83453155000969
+GMDA_c,6,Distance Accuracy,0.89819249685024
+GMDA_c,6,Angle Accuracy,0.91038908004202
+
+Configural BDR Parameters
+
+Measure Type,Filename,Measure,Score
+BDR_c,6,r,0.955645378636019
+BDR_c,6,alpha 1,24.6521558413483
+BDR_c,6,alpha 2,-64.7528006623666
+BDR_c,6,beta 1,0.861401354496079
+BDR_c,6,beta 2,0.0546101716743849
+BDR_c,6,scale,0.863130676304571
+BDR_c,6,theta,3.6275198768409
+BDR_c,6,DMax,1267.2803458588
+BDR_c,6,D,373.239149057062
+BDR_c,6,DI,29.4519796094627
+
+GMDA measures for individual landmarks
+
+Measure Type,Filename,Landmark,Measure,Score
+25 is missing. Unable to calculate GMDA measures
+24 is missing. Unable to calculate GMDA measures
+GMDA_i,6,33,Canonical Accuracy,0.849609375
+GMDA_i,6,33,Scaling Bias,-0.061801451195908
+GMDA_i,6,33,Rotational Bias,-5.04262264592039
+GMDA_i,6,33,Distance Accuracy,0.878085148957692
+GMDA_i,6,33,Angle Accuracy,0.873802353828547
+GMDA_i,6,32,Canonical Accuracy,0.83203125
+GMDA_i,6,32,Scaling Bias,-0.0576071847079
+GMDA_i,6,32,Rotational Bias,-8.4100002109892
+GMDA_i,6,32,Distance Accuracy,0.876957132236813
+GMDA_i,6,32,Angle Accuracy,0.867326465713904
+31 is missing. Unable to calculate GMDA measures
+GMDA_i,6,28,Canonical Accuracy,0.98828125
+GMDA_i,6,28,Scaling Bias,-0.0161558397884268
+GMDA_i,6,28,Rotational Bias,-2.55065945136045
+GMDA_i,6,28,Distance Accuracy,0.933658813179617
+GMDA_i,6,28,Angle Accuracy,0.931117589341012
+30 is missing. Unable to calculate GMDA measures
+29 is missing. Unable to calculate GMDA measures
+GMDA_i,6,27,Canonical Accuracy,0.90625
+GMDA_i,6,27,Scaling Bias,-0.118427110775168
+GMDA_i,6,27,Rotational Bias,-2.65023656480034
+GMDA_i,6,27,Distance Accuracy,0.874558305259049
+GMDA_i,6,27,Angle Accuracy,0.926000043534837
+GMDA_i,6,26,Canonical Accuracy,0.982421875
+GMDA_i,6,26,Scaling Bias,-0.0485362053732458
+GMDA_i,6,26,Rotational Bias,-1.38570533468929
+GMDA_i,6,26,Distance Accuracy,0.927703084618031
+GMDA_i,6,26,Angle Accuracy,0.9536989477918
+
+BDR Parameters for individual landmarks
+
+Measure Type,Filename,Landmark,Measure,Score
+25 is missing. Unable to calculate BDR parameters
+24 is missing. Unable to calculate BDR parameters
+BDR_i,6,33,r,0.957578416953287
+BDR_i,6,33,alpha 1,168.072449821281
+BDR_i,6,33,alpha 2,-723.716662084135
+BDR_i,6,33,beta 1,3.74484465218587
+BDR_i,6,33,beta 2,0
+BDR_i,6,33,scale,3.74484465218587
+BDR_i,6,33,theta,0
+BDR_i,6,33,DMax,204.249847001167
+BDR_i,6,33,D,58.8592548196233
+BDR_i,6,33,DI,28.8172822079456
+BDR_i,6,32,r,0.899185889994602
+BDR_i,6,32,alpha 1,77.3661066168845
+BDR_i,6,32,alpha 2,-829.359261563991
+BDR_i,6,32,beta 1,4.31943580170089
+BDR_i,6,32,beta 2,0
+BDR_i,6,32,scale,4.31943580170089
+BDR_i,6,32,theta,0
+BDR_i,6,32,DMax,204.249847001167
+BDR_i,6,32,D,89.3729591348396
+BDR_i,6,32,DI,43.756683516306
+31 is missing. Unable to calculate BDR parameters
+BDR_i,6,28,r,0.983303201261059
+BDR_i,6,28,alpha 1,96.1953456824018
+BDR_i,6,28,alpha 2,-69.7179976636898
+BDR_i,6,28,beta 1,0.770158750666171
+BDR_i,6,28,beta 2,1.07664066579459E-06
+BDR_i,6,28,scale,0.770158750666924
+BDR_i,6,28,theta,8.00964296630879E-05
+BDR_i,6,28,DMax,266.877781015955
+BDR_i,6,28,D,48.5650209656311
+BDR_i,6,28,DI,18.197476305728
+30 is missing. Unable to calculate BDR parameters
+29 is missing. Unable to calculate BDR parameters
+BDR_i,6,27,r,0.997123104027651
+BDR_i,6,27,alpha 1,38.0192128430865
+BDR_i,6,27,alpha 2,-19.6787329535647
+BDR_i,6,27,beta 1,0.8618677714483
+BDR_i,6,27,beta 2,0
+BDR_i,6,27,scale,0.8618677714483
+BDR_i,6,27,theta,0
+BDR_i,6,27,DMax,127.397017233529
+BDR_i,6,27,D,9.65658921014485
+BDR_i,6,27,DI,7.5799178189891
+BDR_i,6,26,r,0.933077302354247
+BDR_i,6,26,alpha 1,-76.5427568695127
+BDR_i,6,26,alpha 2,-81.2163497016287
+BDR_i,6,26,beta 1,0.651896270213421
+BDR_i,6,26,beta 2,1.93684716145364E-06
+BDR_i,6,26,scale,0.651896270216298
+BDR_i,6,26,theta,0.000170231328178223
+BDR_i,6,26,DMax,177.487675628478
+BDR_i,6,26,D,63.8380381852295
+BDR_i,6,26,DI,35.967589275808

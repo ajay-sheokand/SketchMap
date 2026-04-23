@@ -1,0 +1,61 @@
+Measure Type Key:
+
+GMDA_c - Configural GMDA Measures
+BDR_c - Configural BDR parameters
+GMDA_i - GMDA Measures (individual landmarks)
+
+Configural GMDA Measures
+
+Measure Type,Filename,Measure,Score
+GMDA_c,9,Canonical Organization,0,0555555555555556
+GMDA_c,9,SQRT(Canonical Organization),0,235702260395516
+GMDA_c,9,Canonical Accuracy,0,416666666666667
+GMDA_c,9,Num Landmarks Missing,6
+GMDA_c,9,Scaling Bias,-0,00945498977931299
+GMDA_c,9,Rotational Bias,-83,732379750511
+GMDA_c,9,Distance Accuracy,0.858270098657078
+GMDA_c,9,Angle Accuracy,0.533965723744303
+
+Configural BDR Parameters
+
+Measure Type,Filename,Measure,Score
+BDR_c,9,r,0.903059975029091
+BDR_c,9,alpha 1,149.47293981119
+BDR_c,9,alpha 2,-330.638487041082
+BDR_c,9,beta 1,0.230362317278226
+BDR_c,9,beta 2,0.564737581021186
+BDR_c,9,scale,0.609914201047537
+BDR_c,9,theta,67.808943019706
+BDR_c,9,DMax,242.432980429644
+BDR_c,9,D,104.128473540322
+BDR_c,9,DI,42.9514471817258
+
+GMDA measures for individual landmarks
+
+Measure Type,Filename,Landmark,Measure,Score
+a is missing. Unable to calculate GMDA measures
+GMDA_i,9,b,Canonical Accuracy,0.5
+GMDA_i,9,b,Scaling Bias,-0.114608647005056
+GMDA_i,9,b,Rotational Bias,-96.5025725527274
+GMDA_i,9,b,Distance Accuracy,0.875400158455043
+GMDA_i,9,b,Angle Accuracy,0.468581024107365
+GMDA_i,9,c,Canonical Accuracy,0.333333333333333
+GMDA_i,9,c,Scaling Bias,0.026951599031667
+GMDA_i,9,c,Rotational Bias,-89.0466914680159
+GMDA_i,9,c,Distance Accuracy,0.909887107273875
+GMDA_i,9,c,Angle Accuracy,0.506981368404484
+GMDA_i,9,d,Canonical Accuracy,0.333333333333333
+GMDA_i,9,d,Scaling Bias,0.0209037302601397
+GMDA_i,9,d,Rotational Bias,-92.607967177067
+GMDA_i,9,d,Distance Accuracy,0.873418398890713
+GMDA_i,9,d,Angle Accuracy,0.486406843616878
+e is missing. Unable to calculate GMDA measures
+GMDA_i,9,f,Canonical Accuracy,0.5
+GMDA_i,9,f,Scaling Bias,0.0289333585959973
+GMDA_i,9,f,Rotational Bias,-58.6984804401589
+GMDA_i,9,f,Distance Accuracy,0.774374730008679
+GMDA_i,9,f,Angle Accuracy,0.673893658848486
+g is missing. Unable to calculate GMDA measures
+h is missing. Unable to calculate GMDA measures
+i is missing. Unable to calculate GMDA measures
+j is missing. Unable to calculate GMDA measures
