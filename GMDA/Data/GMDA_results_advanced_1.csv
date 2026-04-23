@@ -1,0 +1,190 @@
+Measure Type Key:
+
+GMDA_c - Configural GMDA Measures
+BDR_c - Configural BDR parameters
+GMDA_i - GMDA Measures (individual landmarks)
+BDR_i - BDR parameters (individual landmarks)
+
+Configural GMDA Measures
+
+Measure Type,Filename,Measure,Score
+GMDA_c,skm_SketchMap1,Canonical Organization,0,947916666666667
+GMDA_c,skm_SketchMap1,SQRT(Canonical Organization),0,973610120462327
+GMDA_c,skm_SketchMap1,Canonical Accuracy,0,947916666666667
+GMDA_c,skm_SketchMap1,Num Landmarks Missing,0
+GMDA_c,skm_SketchMap1,Scaling Bias,0,028093965280736
+GMDA_c,skm_SketchMap1,Rotational Bias,-3,60803761321228
+GMDA_c,skm_SketchMap1,Distance Accuracy,0.922676991761063
+GMDA_c,skm_SketchMap1,Angle Accuracy,0.934918205877936
+
+Configural BDR Parameters
+
+Measure Type,Filename,Measure,Score
+BDR_c,skm_SketchMap1,r,0.966002237182374
+BDR_c,skm_SketchMap1,alpha 1,-37.2002422005803
+BDR_c,skm_SketchMap1,alpha 2,-96.6701695104012
+BDR_c,skm_SketchMap1,beta 1,0.782012209091933
+BDR_c,skm_SketchMap1,beta 2,0.0729616426236925
+BDR_c,skm_SketchMap1,scale,0.785408490190419
+BDR_c,skm_SketchMap1,theta,5.3302585016828
+BDR_c,skm_SketchMap1,DMax,1685.83753294913
+BDR_c,skm_SketchMap1,D,435.845827130477
+BDR_c,skm_SketchMap1,DI,25.853370720014
+
+GMDA measures for individual landmarks
+
+Measure Type,Filename,Landmark,Measure,Score
+GMDA_i,skm_SketchMap1,25,Canonical Accuracy,0.936631944444444
+GMDA_i,skm_SketchMap1,25,Scaling Bias,0.0883976409900604
+GMDA_i,skm_SketchMap1,25,Rotational Bias,-0.144514581750274
+GMDA_i,skm_SketchMap1,25,Distance Accuracy,0.908613935678511
+GMDA_i,skm_SketchMap1,25,Angle Accuracy,0.950347049000245
+GMDA_i,skm_SketchMap1,24,Canonical Accuracy,0.958333333333333
+GMDA_i,skm_SketchMap1,24,Scaling Bias,0.0546731453566749
+GMDA_i,skm_SketchMap1,24,Rotational Bias,-2.76883192013201
+GMDA_i,skm_SketchMap1,24,Distance Accuracy,0.938368860868773
+GMDA_i,skm_SketchMap1,24,Angle Accuracy,0.931385771223726
+GMDA_i,skm_SketchMap1,33,Canonical Accuracy,0.9609375
+GMDA_i,skm_SketchMap1,33,Scaling Bias,0.0194670926482757
+GMDA_i,skm_SketchMap1,33,Rotational Bias,-5.05018401806208
+GMDA_i,skm_SketchMap1,33,Distance Accuracy,0.949432244315281
+GMDA_i,skm_SketchMap1,33,Angle Accuracy,0.942955889159994
+GMDA_i,skm_SketchMap1,32,Canonical Accuracy,0.9453125
+GMDA_i,skm_SketchMap1,32,Scaling Bias,0.0163159713301867
+GMDA_i,skm_SketchMap1,32,Rotational Bias,-3.84528750336429
+GMDA_i,skm_SketchMap1,32,Distance Accuracy,0.945333323049511
+GMDA_i,skm_SketchMap1,32,Angle Accuracy,0.94780544904603
+GMDA_i,skm_SketchMap1,31,Canonical Accuracy,0.947048611111111
+GMDA_i,skm_SketchMap1,31,Scaling Bias,0.0230993431472407
+GMDA_i,skm_SketchMap1,31,Rotational Bias,-6.31431504285144
+GMDA_i,skm_SketchMap1,31,Distance Accuracy,0.944264973970128
+GMDA_i,skm_SketchMap1,31,Angle Accuracy,0.943820163593294
+GMDA_i,skm_SketchMap1,28,Canonical Accuracy,0.967881944444444
+GMDA_i,skm_SketchMap1,28,Scaling Bias,0.0214648337500446
+GMDA_i,skm_SketchMap1,28,Rotational Bias,-1.02524481190074
+GMDA_i,skm_SketchMap1,28,Distance Accuracy,0.898195361092058
+GMDA_i,skm_SketchMap1,28,Angle Accuracy,0.931948977443592
+GMDA_i,skm_SketchMap1,30,Canonical Accuracy,0.965277777777778
+GMDA_i,skm_SketchMap1,30,Scaling Bias,0.0417881214898846
+GMDA_i,skm_SketchMap1,30,Rotational Bias,5.21295902646837
+GMDA_i,skm_SketchMap1,30,Distance Accuracy,0.879658214404936
+GMDA_i,skm_SketchMap1,30,Angle Accuracy,0.939252906694451
+GMDA_i,skm_SketchMap1,29,Canonical Accuracy,0.971354166666667
+GMDA_i,skm_SketchMap1,29,Scaling Bias,-0.020345417303347
+GMDA_i,skm_SketchMap1,29,Rotational Bias,-8.0206000391003
+GMDA_i,skm_SketchMap1,29,Distance Accuracy,0.917837765058305
+GMDA_i,skm_SketchMap1,29,Angle Accuracy,0.915598863339986
+GMDA_i,skm_SketchMap1,27,Canonical Accuracy,0.900173611111111
+GMDA_i,skm_SketchMap1,27,Scaling Bias,-0.0299885470213015
+GMDA_i,skm_SketchMap1,27,Rotational Bias,-8.3392224600853
+GMDA_i,skm_SketchMap1,27,Distance Accuracy,0.913765119663819
+GMDA_i,skm_SketchMap1,27,Angle Accuracy,0.895062518112579
+GMDA_i,skm_SketchMap1,26,Canonical Accuracy,0.926215277777778
+GMDA_i,skm_SketchMap1,26,Scaling Bias,0.0660674684196411
+GMDA_i,skm_SketchMap1,26,Rotational Bias,-5.76675544364923
+GMDA_i,skm_SketchMap1,26,Distance Accuracy,0.93130011950931
+GMDA_i,skm_SketchMap1,26,Angle Accuracy,0.951004471165463
+
+BDR Parameters for individual landmarks
+
+Measure Type,Filename,Landmark,Measure,Score
+BDR_i,skm_SketchMap1,25,r,0.927770086575862
+BDR_i,skm_SketchMap1,25,alpha 1,-159.203280967428
+BDR_i,skm_SketchMap1,25,alpha 2,-13.2142668666053
+BDR_i,skm_SketchMap1,25,beta 1,0.497461079539969
+BDR_i,skm_SketchMap1,25,beta 2,0
+BDR_i,skm_SketchMap1,25,scale,0.497461079539969
+BDR_i,skm_SketchMap1,25,theta,0
+BDR_i,skm_SketchMap1,25,DMax,129.429517498908
+BDR_i,skm_SketchMap1,25,D,48.296926904871
+BDR_i,skm_SketchMap1,25,DI,37.3152336794261
+BDR_i,skm_SketchMap1,24,r,0.990829652163123
+BDR_i,skm_SketchMap1,24,alpha 1,-95.0433310378054
+BDR_i,skm_SketchMap1,24,alpha 2,-87.5738674564008
+BDR_i,skm_SketchMap1,24,beta 1,0.686494402269034
+BDR_i,skm_SketchMap1,24,beta 2,0
+BDR_i,skm_SketchMap1,24,scale,0.686494402269034
+BDR_i,skm_SketchMap1,24,theta,0
+BDR_i,skm_SketchMap1,24,DMax,257.165073445054
+BDR_i,skm_SketchMap1,24,D,34.7473700933156
+BDR_i,skm_SketchMap1,24,DI,13.5116987807988
+BDR_i,skm_SketchMap1,33,r,0.99828075408808
+BDR_i,skm_SketchMap1,33,alpha 1,-40.7279351113555
+BDR_i,skm_SketchMap1,33,alpha 2,-205.188846118596
+BDR_i,skm_SketchMap1,33,beta 1,1.17638163321419
+BDR_i,skm_SketchMap1,33,beta 2,-4.58253139034002E-05
+BDR_i,skm_SketchMap1,33,scale,1.17638163410674
+BDR_i,skm_SketchMap1,33,theta,-0.00223192627806089
+BDR_i,skm_SketchMap1,33,DMax,61.5457147167859
+BDR_i,skm_SketchMap1,33,D,3.60740640788612
+BDR_i,skm_SketchMap1,33,DI,5.86134457043236
+BDR_i,skm_SketchMap1,32,r,0.998962529258569
+BDR_i,skm_SketchMap1,32,alpha 1,-47.4266058217521
+BDR_i,skm_SketchMap1,32,alpha 2,-163.796238678006
+BDR_i,skm_SketchMap1,32,beta 1,0.997303464011616
+BDR_i,skm_SketchMap1,32,beta 2,6.91419484201065E-05
+BDR_i,skm_SketchMap1,32,scale,0.997303466408383
+BDR_i,skm_SketchMap1,32,theta,0.00397225314900756
+BDR_i,skm_SketchMap1,32,DMax,42.4484982066504
+BDR_i,skm_SketchMap1,32,D,1.9330922751676
+BDR_i,skm_SketchMap1,32,DI,4.55397094558398
+BDR_i,skm_SketchMap1,31,r,0.997014831849473
+BDR_i,skm_SketchMap1,31,alpha 1,-54.6861235955056
+BDR_i,skm_SketchMap1,31,alpha 2,-54.72
+BDR_i,skm_SketchMap1,31,beta 1,0.515280898876404
+BDR_i,skm_SketchMap1,31,beta 2,0
+BDR_i,skm_SketchMap1,31,scale,0.515280898876404
+BDR_i,skm_SketchMap1,31,theta,0
+BDR_i,skm_SketchMap1,31,DMax,59.714947877395
+BDR_i,skm_SketchMap1,31,D,4.6106069697183
+BDR_i,skm_SketchMap1,31,DI,7.72102653289535
+BDR_i,skm_SketchMap1,28,r,0.928501945544106
+BDR_i,skm_SketchMap1,28,alpha 1,44.4786582904023
+BDR_i,skm_SketchMap1,28,alpha 2,-135.621614638006
+BDR_i,skm_SketchMap1,28,beta 1,0.341741896933189
+BDR_i,skm_SketchMap1,28,beta 2,0
+BDR_i,skm_SketchMap1,28,scale,0.341741896933189
+BDR_i,skm_SketchMap1,28,theta,0
+BDR_i,skm_SketchMap1,28,DMax,125.410824891634
+BDR_i,skm_SketchMap1,28,D,46.5684922787819
+BDR_i,skm_SketchMap1,28,DI,37.1327533480633
+BDR_i,skm_SketchMap1,30,r,0.999682270089026
+BDR_i,skm_SketchMap1,30,alpha 1,49.1137512926283
+BDR_i,skm_SketchMap1,30,alpha 2,-150.892578324754
+BDR_i,skm_SketchMap1,30,beta 1,0.405277332696962
+BDR_i,skm_SketchMap1,30,beta 2,1.13637654973352E-05
+BDR_i,skm_SketchMap1,30,scale,0.40527733285628
+BDR_i,skm_SketchMap1,30,theta,0.00160654383967213
+BDR_i,skm_SketchMap1,30,DMax,42.5191133491751
+BDR_i,skm_SketchMap1,30,D,1.07175063166303
+BDR_i,skm_SketchMap1,30,DI,2.5206325984778
+BDR_i,skm_SketchMap1,29,r,0.900323381030906
+BDR_i,skm_SketchMap1,29,alpha 1,37.7625608962872
+BDR_i,skm_SketchMap1,29,alpha 2,-110.372422001867
+BDR_i,skm_SketchMap1,29,beta 1,0.42438904596923
+BDR_i,skm_SketchMap1,29,beta 2,2.21239916990783E-06
+BDR_i,skm_SketchMap1,29,scale,0.424389045974997
+BDR_i,skm_SketchMap1,29,theta,0.000298690873944018
+BDR_i,skm_SketchMap1,29,DMax,112.04407614863
+BDR_i,skm_SketchMap1,29,D,48.7639980324009
+BDR_i,skm_SketchMap1,29,DI,43.5221563768476
+BDR_i,skm_SketchMap1,27,r,0.995485754172245
+BDR_i,skm_SketchMap1,27,alpha 1,13.8081305023304
+BDR_i,skm_SketchMap1,27,alpha 2,-111.982824098049
+BDR_i,skm_SketchMap1,27,beta 1,0.413602623856378
+BDR_i,skm_SketchMap1,27,beta 2,0
+BDR_i,skm_SketchMap1,27,scale,0.413602623856378
+BDR_i,skm_SketchMap1,27,theta,0
+BDR_i,skm_SketchMap1,27,DMax,61.2372435695795
+BDR_i,skm_SketchMap1,27,D,5.8120929664313
+BDR_i,skm_SketchMap1,27,DI,9.49110807025048
+BDR_i,skm_SketchMap1,26,r,0.951591362999556
+BDR_i,skm_SketchMap1,26,alpha 1,-93.2196036048599
+BDR_i,skm_SketchMap1,26,alpha 2,-129.994038384437
+BDR_i,skm_SketchMap1,26,beta 1,0.666771256413385
+BDR_i,skm_SketchMap1,26,beta 2,0
+BDR_i,skm_SketchMap1,26,scale,0.666771256413385
+BDR_i,skm_SketchMap1,26,theta,0
+BDR_i,skm_SketchMap1,26,DMax,178.005617888874
+BDR_i,skm_SketchMap1,26,D,54.7128805129031
+BDR_i,skm_SketchMap1,26,DI,30.7366032385896
