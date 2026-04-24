@@ -1,20 +1,20 @@
 landmarkName,rectangleVertexNum,X,Y
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
 33,0,-106,127
 33,1,-29,127
 33,2,48,127
@@ -31,14 +31,14 @@ None, None, None, None
 32,13,-29,63
 32,14,-106,63
 32,15,-106,95
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
 28,16,118,-30
 28,17,197,-30
 28,18,277,-30
@@ -47,22 +47,22 @@ None, None, None, None
 28,21,197,-179
 28,22,118,-179
 28,23,118,-104
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
-None, None, None, None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
+None,None,None,None
 27,24,-13,-144
 27,25,28,-144
 27,26,69,-144
