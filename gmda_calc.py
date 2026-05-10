@@ -237,8 +237,8 @@ if __name__ == '__main__':
     )
     parser.add_argument(
         '--output', '-o',
-        default='gmda_results.csv',
-        help='Output Excel filename (default: gmda_results.csv)'
+        default='gmda_results.xlsx',
+        help='Output Excel filename (default: gmda_results.xlsx)'
     )
     args = parser.parse_args()
     
