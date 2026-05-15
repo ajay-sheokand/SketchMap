@@ -1,0 +1,300 @@
+CM_Sketch_9.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,1,1,1,0,0,100
+Linear Ordering of Landmarks along Street Segments,1,1,1,0,0,100
+Left-Right Relations of Landmarks wrt. Street-segments,2,2,2,0,0,100
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,300,300,300,0,0,100
+Relative Orientation of Connected Street-segments,48,48,27,21,0,56.25
+    
+AS_Sketch_1.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,1,1,1,0,0,100
+Linear Ordering of Landmarks along Street Segments,0,0,0,0,0,0
+Left-Right Relations of Landmarks wrt. Street-segments,0,0,0,0,0,0
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,276,276,276,0,0,100
+Relative Orientation of Connected Street-segments,48,48,27,21,0,56.25
+    
+AS_Sketch_4.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,10,10,10,0,0,100
+Linear Ordering of Landmarks along Street Segments,6,3,3,0,3,100
+Left-Right Relations of Landmarks wrt. Street-segments,5,3,1,0,4,33.33
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,45,55,45,0,0,81.82
+Relative Orientation of Connected Street-segments,12,16,7,5,0,43.75
+    
+AS_Sketch_10.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,120,120,119,1,0,99.17
+Linear Ordering of Landmarks along Street Segments,3,6,3,0,0,50
+Left-Right Relations of Landmarks wrt. Street-segments,7,6,4,1,2,66.67
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,1653,1653,1653,0,0,100
+Relative Orientation of Connected Street-segments,114,114,57,57,0,50
+    
+AS_Sketch_7.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,3,3,3,0,0,100
+Linear Ordering of Landmarks along Street Segments,1,1,0,0,1,0
+Left-Right Relations of Landmarks wrt. Street-segments,4,2,1,0,3,50
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,45,45,45,0,0,100
+Relative Orientation of Connected Street-segments,15,15,8,7,0,53.33
+    
+AS_Sketch_5.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,15,15,15,0,0,100
+Linear Ordering of Landmarks along Street Segments,3,6,3,0,0,50
+Left-Right Relations of Landmarks wrt. Street-segments,3,4,2,0,1,50
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,55,66,55,0,0,83.33
+Relative Orientation of Connected Street-segments,14,18,7,7,0,38.89
+    
+AS_Sketch_3.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,15,21,15,0,0,71.43
+Linear Ordering of Landmarks along Street Segments,1,3,1,0,0,33.33
+Left-Right Relations of Landmarks wrt. Street-segments,3,3,2,0,1,66.67
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,666,666,666,0,0,100
+Relative Orientation of Connected Street-segments,69,69,33,36,0,47.83
+    
+AS_Sketch_8.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,105,105,104,1,0,99.05
+Linear Ordering of Landmarks along Street Segments,3,3,3,0,0,100
+Left-Right Relations of Landmarks wrt. Street-segments,7,5,5,0,2,100
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,231,231,225,6,0,97.4
+Relative Orientation of Connected Street-segments,39,45,12,27,0,26.67
+    
+AS_Sketch_9.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,1,1,1,0,0,100
+Linear Ordering of Landmarks along Street Segments,1,1,1,0,0,100
+Left-Right Relations of Landmarks wrt. Street-segments,2,2,2,0,0,100
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,300,300,297,3,0,99
+Relative Orientation of Connected Street-segments,45,48,20,25,0,41.67
+    
+AS_Sketch_2.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,15,15,15,0,0,100
+Linear Ordering of Landmarks along Street Segments,3,3,1,0,2,33.33
+Left-Right Relations of Landmarks wrt. Street-segments,6,3,2,0,4,66.67
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,780,780,780,0,0,100
+Relative Orientation of Connected Street-segments,78,78,49,29,0,62.82
+    
+AS_Sketch_6.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,15,15,15,0,0,100
+Linear Ordering of Landmarks along Street Segments,3,3,3,0,0,100
+Left-Right Relations of Landmarks wrt. Street-segments,5,5,4,1,0,80
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,55,55,55,0,0,100
+Relative Orientation of Connected Street-segments,16,16,8,8,0,50
+    
+CM_Sketch_1.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,1,1,1,0,0,100
+Linear Ordering of Landmarks along Street Segments,0,0,0,0,0,0
+Left-Right Relations of Landmarks wrt. Street-segments,0,0,0,0,0,0
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,276,276,276,0,0,100
+Relative Orientation of Connected Street-segments,48,48,25,23,0,52.08
+    
+CM_Sketch_4.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,10,10,10,0,0,100
+Linear Ordering of Landmarks along Street Segments,1,3,1,0,0,33.33
+Left-Right Relations of Landmarks wrt. Street-segments,2,3,2,0,0,66.67
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,55,55,55,0,0,100
+Relative Orientation of Connected Street-segments,16,16,8,8,0,50
+    
+CM_Sketch_2.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,15,15,15,0,0,100
+Linear Ordering of Landmarks along Street Segments,3,3,1,0,2,33.33
+Left-Right Relations of Landmarks wrt. Street-segments,5,3,2,0,3,66.67
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,595,630,595,0,0,94.44
+Relative Orientation of Connected Street-segments,66,69,45,21,0,65.22
+    
+CM_Sketch_5.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,15,15,15,0,0,100
+Linear Ordering of Landmarks along Street Segments,3,3,1,0,2,33.33
+Left-Right Relations of Landmarks wrt. Street-segments,5,3,2,0,3,66.67
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,66,66,66,0,0,100
+Relative Orientation of Connected Street-segments,18,18,9,9,0,50
+    
+CM_Sketch_3.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,21,21,21,0,0,100
+Linear Ordering of Landmarks along Street Segments,3,6,3,0,0,50
+Left-Right Relations of Landmarks wrt. Street-segments,5,4,3,0,2,75
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,666,666,666,0,0,100
+Relative Orientation of Connected Street-segments,69,69,43,26,0,62.32
+    
+CM_Sketch_6.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,15,15,15,0,0,100
+Linear Ordering of Landmarks along Street Segments,3,3,3,0,0,100
+Left-Right Relations of Landmarks wrt. Street-segments,5,4,4,0,1,100
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,55,55,55,0,0,100
+Relative Orientation of Connected Street-segments,16,16,11,5,0,68.75
+    
+CM_Sketch_7.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,3,3,3,0,0,100
+Linear Ordering of Landmarks along Street Segments,1,3,0,1,0,0
+Left-Right Relations of Landmarks wrt. Street-segments,4,3,2,0,2,66.67
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,45,45,45,0,0,100
+Relative Orientation of Connected Street-segments,15,15,8,7,0,53.33
+    
+CM_Sketch_8.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,105,105,103,2,0,98.1
+Linear Ordering of Landmarks along Street Segments,3,3,2,1,0,66.67
+Left-Right Relations of Landmarks wrt. Street-segments,6,4,4,0,2,100
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,276,276,270,6,0,97.83
+Relative Orientation of Connected Street-segments,42,48,18,24,0,37.5
+    
+JK_Sketch_2.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,15,15,15,0,0,100
+Linear Ordering of Landmarks along Street Segments,3,1,1,0,2,100
+Left-Right Relations of Landmarks wrt. Street-segments,5,2,2,0,3,100
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,630,630,630,0,0,100
+Relative Orientation of Connected Street-segments,69,69,38,31,0,55.07
+    
+JK_Sketch_1.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,1,1,1,0,0,100
+Linear Ordering of Landmarks along Street Segments,0,0,0,0,0,0
+Left-Right Relations of Landmarks wrt. Street-segments,0,0,0,0,0,0
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,253,276,253,0,0,91.67
+Relative Orientation of Connected Street-segments,43,48,20,23,0,41.67
+    
+JK_Sketch_3.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,21,21,21,0,0,100
+Linear Ordering of Landmarks along Street Segments,3,6,3,0,0,50
+Left-Right Relations of Landmarks wrt. Street-segments,5,5,3,0,2,60
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,666,666,666,0,0,100
+Relative Orientation of Connected Street-segments,69,69,33,36,0,47.83
+    
+CM_Sketch_10.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,120,120,119,1,0,99.17
+Linear Ordering of Landmarks along Street Segments,3,6,3,0,0,50
+Left-Right Relations of Landmarks wrt. Street-segments,7,6,4,1,2,66.67
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,1653,1653,1651,2,0,99.88
+Relative Orientation of Connected Street-segments,112,114,68,44,0,59.65
+    
+JK_Sketch_4.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,10,10,10,0,0,100
+Linear Ordering of Landmarks along Street Segments,1,3,1,0,0,33.33
+Left-Right Relations of Landmarks wrt. Street-segments,2,3,2,0,0,66.67
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,55,55,55,0,0,100
+Relative Orientation of Connected Street-segments,16,16,10,6,0,62.5
+    
+JK_Sketch_6.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,15,15,15,0,0,100
+Linear Ordering of Landmarks along Street Segments,3,3,3,0,0,100
+Left-Right Relations of Landmarks wrt. Street-segments,5,4,4,0,1,100
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,55,55,55,0,0,100
+Relative Orientation of Connected Street-segments,16,16,9,7,0,56.25
+    
+JK_Sketch_5.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,15,15,15,0,0,100
+Linear Ordering of Landmarks along Street Segments,3,3,1,0,2,33.33
+Left-Right Relations of Landmarks wrt. Street-segments,5,3,2,0,3,66.67
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,66,66,66,0,0,100
+Relative Orientation of Connected Street-segments,18,18,7,11,0,38.89
+    
+JK_Sketch_7.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,3,3,3,0,0,100
+Linear Ordering of Landmarks along Street Segments,1,3,0,1,0,0
+Left-Right Relations of Landmarks wrt. Street-segments,4,3,2,0,2,66.67
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,45,45,45,0,0,100
+Relative Orientation of Connected Street-segments,15,15,6,9,0,40
+    
+JK_Sketch_8.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,105,105,103,2,0,98.1
+Linear Ordering of Landmarks along Street Segments,3,3,2,1,0,66.67
+Left-Right Relations of Landmarks wrt. Street-segments,6,4,4,0,2,100
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,276,276,268,8,0,97.1
+Relative Orientation of Connected Street-segments,40,48,15,25,0,31.25
+    
+JK_Sketch_9.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,1,1,1,0,0,100
+Linear Ordering of Landmarks along Street Segments,1,1,1,0,0,100
+Left-Right Relations of Landmarks wrt. Street-segments,2,2,2,0,0,100
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,300,300,300,0,0,100
+Relative Orientation of Connected Street-segments,48,48,23,25,0,47.92
+    
+JK_Sketch_10.png
+Correctness
+Qualitative Spatial Aspects , Relations in Base map , Relations in Sketch Map , Correct Relations, Wrong Relations, Missing Relations, Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,120,120,118,2,0,98.33
+Linear Ordering of Landmarks along Street Segments,3,3,3,0,0,100
+Left-Right Relations of Landmarks wrt. Street-segments,7,5,4,1,2,80
+Topological Relations between street-segments and regions/landmarks,0,0,0,0,0,0
+Connectivity of street segments,1653,1653,1651,2,0,99.88
+Relative Orientation of Connected Street-segments,112,114,54,58,0,47.37
+    

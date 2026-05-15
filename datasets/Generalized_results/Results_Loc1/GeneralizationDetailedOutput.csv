@@ -1,0 +1,972 @@
+Sketch Map , BaseId , SketchId , GenId , Generalization Type
+AS_Sketch_1.jpg,46,S0,g.46,No generalization
+AS_Sketch_1.jpg,0,S4,g.0,No generalization
+AS_Sketch_1.jpg,11,S5,g.11,No generalization
+AS_Sketch_1.jpg,12,S6,g.12,No generalization
+AS_Sketch_1.jpg,14,S7,g.14,No generalization
+AS_Sketch_1.jpg,13,S8,g.13,No generalization
+AS_Sketch_1.jpg,144 25 120 121 110 109 142,S9,g.25.109.110.120.121.142.144,OmissionMerge
+AS_Sketch_1.jpg,26,S10,g.26,No generalization
+AS_Sketch_1.jpg,24,S11,g.24,No generalization
+AS_Sketch_1.jpg,27 45 23,S12,g.23.27.45,OmissionMerge
+AS_Sketch_1.jpg,51,S13,g.51,No generalization
+AS_Sketch_1.jpg,50,S14,g.50,No generalization
+AS_Sketch_1.jpg,49,S15,g.49,No generalization
+AS_Sketch_1.jpg,48,S16,g.48,No generalization
+AS_Sketch_1.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S17,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+AS_Sketch_1.jpg,59,S18,g.59,No generalization
+AS_Sketch_1.jpg,69,S19,g.69,No generalization
+AS_Sketch_1.jpg,60,S20,g.60,No generalization
+AS_Sketch_1.jpg,61,S21,g.61,No generalization
+AS_Sketch_1.jpg,72 70 71,S22,g.70.71.72,Amalgamation
+AS_Sketch_1.jpg,42 35 44,S23,g.35.42.44,OmissionMerge
+AS_Sketch_1.jpg,128 130 131 132 122 123 124 125 126 127,S24,g.122.123.124.125.126.127.128.130.131.132,OmissionMerge
+AS_Sketch_1.jpg,Features missing in sketch map,"2,4,5,6,7,8,9,15,20,21,28,29,30,32,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+AS_Sketch_1.jpg,Features drawn extra in sketch map, S1
+   
+AS_Sketch_3.jpg,0,S0,g.0,No generalization
+AS_Sketch_3.jpg,42 35 44,S1,g.35.42.44,OmissionMerge
+AS_Sketch_3.jpg,128 130 131 132 122 123 124 125 126 127,S2,g.122.123.124.125.126.127.128.130.131.132,OmissionMerge
+AS_Sketch_3.jpg,27 45 23,S3,g.23.27.45,OmissionMerge
+AS_Sketch_3.jpg,46,S4,g.46,No generalization
+AS_Sketch_3.jpg,49,S5,g.49,No generalization
+AS_Sketch_3.jpg,48,S6,g.48,No generalization
+AS_Sketch_3.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S8,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+AS_Sketch_3.jpg,56 53 54 55,S10,g.53.54.55.56,Amalgamation
+AS_Sketch_3.jpg,59,S11,g.59,No generalization
+AS_Sketch_3.jpg,72 70 71,S12,g.70.71.72,Amalgamation
+AS_Sketch_3.jpg,11,S13,g.11,No generalization
+AS_Sketch_3.jpg,12,S14,g.12,No generalization
+AS_Sketch_3.jpg,13,S15,g.13,No generalization
+AS_Sketch_3.jpg,14 15,S16,g.14.15,OmissionMerge
+AS_Sketch_3.jpg,109 110 111 142 144 146 114 119 120 121 25,S20 S17 S19 S18 S21,g.25.109.110.111.114.119.120.121.142.144.146,Abstraction to show existence
+AS_Sketch_3.jpg,26,S22,g.26,No generalization
+AS_Sketch_3.jpg,24,S23,g.24,No generalization
+AS_Sketch_3.jpg,69,S24,g.69,No generalization
+AS_Sketch_3.jpg,Features missing in sketch map,"2,4,5,6,7,8,9,20,21,28,29,30,32,33,34,38,43,133,134,135,136,137,138,140,47,50,51,57,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+AS_Sketch_3.jpg,Features drawn extra in sketch map, S7,S9
+   
+AS_Sketch_2.jpg,46,S0,g.46,No generalization
+AS_Sketch_2.jpg,42 44,S1,g.42.44,OmissionMerge
+AS_Sketch_2.jpg,34,S2,g.34,No generalization
+AS_Sketch_2.jpg,35,S3,g.35,No generalization
+AS_Sketch_2.jpg,122 123 124 125,S4,g.122.123.124.125,OmissionMerge
+AS_Sketch_2.jpg,0,S5,g.0,No generalization
+AS_Sketch_2.jpg,2 7,S6,g.2.7,OmissionMerge
+AS_Sketch_2.jpg,32,S7,g.32,No generalization
+AS_Sketch_2.jpg,30,S8,g.30,No generalization
+AS_Sketch_2.jpg,28 29,S9,g.28.29,OmissionMerge
+AS_Sketch_2.jpg,45,S10,g.45,No generalization
+AS_Sketch_2.jpg,128 130 131 132 126 127,S11,g.126.127.128.130.131.132,OmissionMerge
+AS_Sketch_2.jpg,11,S12,g.11,No generalization
+AS_Sketch_2.jpg,59,S13,g.59,No generalization
+AS_Sketch_2.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S14,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+AS_Sketch_2.jpg,120 121,S15,g.120.121,OmissionMerge
+AS_Sketch_2.jpg,144 142,S16,g.142.144,OmissionMerge
+AS_Sketch_2.jpg,114,S17,g.114,No generalization
+AS_Sketch_2.jpg,12,S18,g.12,No generalization
+AS_Sketch_2.jpg,14,S19,g.14,No generalization
+AS_Sketch_2.jpg,15,S20,g.15,No generalization
+AS_Sketch_2.jpg,109 110,S21,g.109.110,OmissionMerge
+AS_Sketch_2.jpg,9,S22,g.9,No generalization
+AS_Sketch_2.jpg,38,S23,g.38,No generalization
+AS_Sketch_2.jpg,20,S24,g.20,No generalization
+AS_Sketch_2.jpg,8,S25,g.8,No generalization
+AS_Sketch_2.jpg,21,S26,g.21,No generalization
+AS_Sketch_2.jpg,27,S27,g.27,No generalization
+AS_Sketch_2.jpg,51,S28,g.51,No generalization
+AS_Sketch_2.jpg,50,S29,g.50,No generalization
+AS_Sketch_2.jpg,49,S30,g.49,No generalization
+AS_Sketch_2.jpg,48,S31,g.48,No generalization
+AS_Sketch_2.jpg,57,S32,g.57,No generalization
+AS_Sketch_2.jpg,69,S33,g.69,No generalization
+AS_Sketch_2.jpg,25,S34,g.25,No generalization
+AS_Sketch_2.jpg,23,S35,g.23,No generalization
+AS_Sketch_2.jpg,24,S36,g.24,No generalization
+AS_Sketch_2.jpg,26,S37,g.26,No generalization
+AS_Sketch_2.jpg,13,S38,g.13,No generalization
+AS_Sketch_2.jpg,72,S39,g.72,No generalization
+AS_Sketch_2.jpg,70,S40,g.70,No generalization
+AS_Sketch_2.jpg,71,S41,g.71,No generalization
+AS_Sketch_2.jpg,Features missing in sketch map,"4,5,6,33,43,111,119,133,134,135,136,137,138,140,146,47,53,54,55,56,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+AS_Sketch_2.jpg,Features drawn extra in sketch map, 
+   
+AS_Sketch_4.jpg,2,S0,g.2,No generalization
+AS_Sketch_4.jpg,128 126 127,S1,g.126.127.128,OmissionMerge
+AS_Sketch_4.jpg,4,S2,g.4,No generalization
+AS_Sketch_4.jpg,5,S3,g.5,No generalization
+AS_Sketch_4.jpg,6,S4,g.6,No generalization
+AS_Sketch_4.jpg,7,S5,g.7,No generalization
+AS_Sketch_4.jpg,54,S6,g.54,No generalization
+AS_Sketch_4.jpg,53,S7,g.53,No generalization
+AS_Sketch_4.jpg,55,S8,g.55,No generalization
+AS_Sketch_4.jpg,56,S9,g.56,No generalization
+AS_Sketch_4.jpg,130 131 132,S10,g.130.131.132,OmissionMerge
+AS_Sketch_4.jpg,84 85 86 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S11,g.84.85.86.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+AS_Sketch_4.jpg,59,S12,g.59,No generalization
+AS_Sketch_4.jpg,11,S13,g.11,No generalization
+AS_Sketch_4.jpg,72,S14,g.72,No generalization
+AS_Sketch_4.jpg,70,S15,g.70,No generalization
+AS_Sketch_4.jpg,71,S16,g.71,No generalization
+AS_Sketch_4.jpg,12,S17,g.12,No generalization
+AS_Sketch_4.jpg,13,S18,g.13,No generalization
+AS_Sketch_4.jpg,60,S19,g.60,No generalization
+AS_Sketch_4.jpg,61,S20,g.61,No generalization
+AS_Sketch_4.jpg,114,S22,g.114,No generalization
+AS_Sketch_4.jpg,120 121,S23,g.120.121,OmissionMerge
+AS_Sketch_4.jpg,144 142,S24,g.142.144,OmissionMerge
+AS_Sketch_4.jpg,9,S25,g.9,No generalization
+AS_Sketch_4.jpg,8,S26,g.8,No generalization
+AS_Sketch_4.jpg,38,S27,g.38,No generalization
+AS_Sketch_4.jpg,30,S28,g.30,No generalization
+AS_Sketch_4.jpg,32,S29,g.32,No generalization
+AS_Sketch_4.jpg,33,S30,g.33,No generalization
+AS_Sketch_4.jpg,34,S31,g.34,No generalization
+AS_Sketch_4.jpg,122 123 124 125,S32,g.122.123.124.125,OmissionMerge
+AS_Sketch_4.jpg,0,S33,g.0,No generalization
+AS_Sketch_4.jpg,35,S34,g.35,No generalization
+AS_Sketch_4.jpg,42,S36,g.42,No generalization
+AS_Sketch_4.jpg,43,S37,g.43,No generalization
+AS_Sketch_4.jpg,44,S38,g.44,No generalization
+AS_Sketch_4.jpg,45,S39,g.45,No generalization
+AS_Sketch_4.jpg,28,S40,g.28,No generalization
+AS_Sketch_4.jpg,29,S41,g.29,No generalization
+AS_Sketch_4.jpg,46,S42,g.46,No generalization
+AS_Sketch_4.jpg,48,S43,g.48,No generalization
+AS_Sketch_4.jpg,49,S44,g.49,No generalization
+AS_Sketch_4.jpg,51,S45,g.51,No generalization
+AS_Sketch_4.jpg,50,S46,g.50,No generalization
+AS_Sketch_4.jpg,27,S47,g.27,No generalization
+AS_Sketch_4.jpg,21,S48,g.21,No generalization
+AS_Sketch_4.jpg,23,S49,g.23,No generalization
+AS_Sketch_4.jpg,24,S50,g.24,No generalization
+AS_Sketch_4.jpg,47,S51,g.47,No generalization
+AS_Sketch_4.jpg,20,S52,g.20,No generalization
+AS_Sketch_4.jpg,25,S53,g.25,No generalization
+AS_Sketch_4.jpg,26,S54,g.26,No generalization
+AS_Sketch_4.jpg,57,S55,g.57,No generalization
+AS_Sketch_4.jpg,14,S57,g.14,No generalization
+AS_Sketch_4.jpg,15,S58,g.15,No generalization
+AS_Sketch_4.jpg,109 110,S59,g.109.110,OmissionMerge
+AS_Sketch_4.jpg,Features missing in sketch map,"111,119,133,134,135,136,137,138,140,146,58,62,63,64,65,66,67,68,69,73,74,76,77,78,79,80,81,82,83,87"
+AS_Sketch_4.jpg,Features drawn extra in sketch map, S35
+   
+AS_Sketch_5.jpg,0,S0,g.0,No generalization
+AS_Sketch_5.jpg,42 35 44,S1,g.35.42.44,OmissionMerge
+AS_Sketch_5.jpg,46,S2,g.46,No generalization
+AS_Sketch_5.jpg,27 45 23,S3,g.23.27.45,OmissionMerge
+AS_Sketch_5.jpg,48 49 50 51,S4,g.48.49.50.51,Amalgamation
+AS_Sketch_5.jpg,47,S5,g.47,No generalization
+AS_Sketch_5.jpg,83,S6,g.83,No generalization
+AS_Sketch_5.jpg,82,S7,g.82,No generalization
+AS_Sketch_5.jpg,81,S9,g.81,No generalization
+AS_Sketch_5.jpg,9,S10,g.9,No generalization
+AS_Sketch_5.jpg,25 109 110,S11,g.25.109.110,OmissionMerge
+AS_Sketch_5.jpg,24,S12,g.24,No generalization
+AS_Sketch_5.jpg,26,S13,g.26,No generalization
+AS_Sketch_5.jpg,144 121 120 142,S14,g.120.121.142.144,OmissionMerge
+AS_Sketch_5.jpg,69,S15,g.69,No generalization
+AS_Sketch_5.jpg,12,S16,g.12,No generalization
+AS_Sketch_5.jpg,13,S17,g.13,No generalization
+AS_Sketch_5.jpg,72 70 71,S18,g.70.71.72,Amalgamation
+AS_Sketch_5.jpg,14,S19,g.14,No generalization
+AS_Sketch_5.jpg,64 65 66 67 68 60 61 62 63,S23 S24 S20 S22 S21,g.60.61.62.63.64.65.66.67.68,Abstraction to show existence
+AS_Sketch_5.jpg,80 73 74 76 77 78 79,S27 S28 S26 S25,g.73.74.76.77.78.79.80,Abstraction to show existence
+AS_Sketch_5.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S29,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+AS_Sketch_5.jpg,128 130 131 132 122 123 124 125 126 127,S32 S36 S34 S30,g.122.123.124.125.126.127.128.130.131.132,Abstraction to show existence
+AS_Sketch_5.jpg,133 134 135 136 137 138 140,S35 S33 S31,g.133.134.135.136.137.138.140,Abstraction to show existence
+AS_Sketch_5.jpg,59,S37,g.59,No generalization
+AS_Sketch_5.jpg,Features missing in sketch map,"2,4,5,6,7,8,11,15,20,21,28,29,30,32,33,34,38,43,111,114,119,146,53,54,55,56,57,58"
+AS_Sketch_5.jpg,Features drawn extra in sketch map, 
+   
+AS_Sketch_6.jpg,0,S1,g.0,No generalization
+AS_Sketch_6.jpg,42 35 44,S2,g.35.42.44,OmissionMerge
+AS_Sketch_6.jpg,46,S4,g.46,No generalization
+AS_Sketch_6.jpg,49,S5,g.49,No generalization
+AS_Sketch_6.jpg,48,S7,g.48,No generalization
+AS_Sketch_6.jpg,50,S9,g.50,No generalization
+AS_Sketch_6.jpg,51,S10,g.51,No generalization
+AS_Sketch_6.jpg,27 45 23,S11,g.23.27.45,OmissionMerge
+AS_Sketch_6.jpg,24,S12,g.24,No generalization
+AS_Sketch_6.jpg,26,S13,g.26,No generalization
+AS_Sketch_6.jpg,144 25 120 121 142 109 110,S14,g.25.109.110.120.121.142.144,OmissionMerge
+AS_Sketch_6.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S15,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+AS_Sketch_6.jpg,12,S16,g.12,No generalization
+AS_Sketch_6.jpg,13,S17,g.13,No generalization
+AS_Sketch_6.jpg,14,S18,g.14,No generalization
+AS_Sketch_6.jpg,11,S19,g.11,No generalization
+AS_Sketch_6.jpg,59,S20,g.59,No generalization
+AS_Sketch_6.jpg,128 130 131 132 122 123 124 125 126 127,S21,g.122.123.124.125.126.127.128.130.131.132,OmissionMerge
+AS_Sketch_6.jpg,Features missing in sketch map,"2,4,5,6,7,8,9,15,20,21,28,29,30,32,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,76,77,78,79,80,81,82,83"
+AS_Sketch_6.jpg,Features drawn extra in sketch map, S0,S3
+   
+AS_Sketch_7.jpg,0,S0,g.0,No generalization
+AS_Sketch_7.jpg,58,S2,g.58,No generalization
+AS_Sketch_7.jpg,57,S4,g.57,No generalization
+AS_Sketch_7.jpg,35,S5,g.35,No generalization
+AS_Sketch_7.jpg,34,S6,g.34,No generalization
+AS_Sketch_7.jpg,32,S7,g.32,No generalization
+AS_Sketch_7.jpg,42 44,S8,g.42.44,OmissionMerge
+AS_Sketch_7.jpg,46,S10,g.46,No generalization
+AS_Sketch_7.jpg,49,S11,g.49,No generalization
+AS_Sketch_7.jpg,51,S12,g.51,No generalization
+AS_Sketch_7.jpg,50,S13,g.50,No generalization
+AS_Sketch_7.jpg,48,S14,g.48,No generalization
+AS_Sketch_7.jpg,45,S15,g.45,No generalization
+AS_Sketch_7.jpg,28 29,S16,g.28.29,OmissionMerge
+AS_Sketch_7.jpg,30,S17,g.30,No generalization
+AS_Sketch_7.jpg,8,S19,g.8,No generalization
+AS_Sketch_7.jpg,38,S20,g.38,No generalization
+AS_Sketch_7.jpg,21,S21,g.21,No generalization
+AS_Sketch_7.jpg,27,S22,g.27,No generalization
+AS_Sketch_7.jpg,23,S23,g.23,No generalization
+AS_Sketch_7.jpg,47,S24,g.47,No generalization
+AS_Sketch_7.jpg,20,S25,g.20,No generalization
+AS_Sketch_7.jpg,82,S26,g.82,No generalization
+AS_Sketch_7.jpg,81,S27,g.81,No generalization
+AS_Sketch_7.jpg,9,S28,g.9,No generalization
+AS_Sketch_7.jpg,109 110,S29,g.109.110,OmissionMerge
+AS_Sketch_7.jpg,25,S30,g.25,No generalization
+AS_Sketch_7.jpg,24,S31,g.24,No generalization
+AS_Sketch_7.jpg,26,S32,g.26,No generalization
+AS_Sketch_7.jpg,144 121 120 142,S33,g.120.121.142.144,OmissionMerge
+AS_Sketch_7.jpg,12,S34,g.12,No generalization
+AS_Sketch_7.jpg,14 15,S35,g.14.15,OmissionMerge
+AS_Sketch_7.jpg,13,S36,g.13,No generalization
+AS_Sketch_7.jpg,60,S37,g.60,No generalization
+AS_Sketch_7.jpg,61,S38,g.61,No generalization
+AS_Sketch_7.jpg,69,S39,g.69,No generalization
+AS_Sketch_7.jpg,70,S42,g.70,No generalization
+AS_Sketch_7.jpg,72,S41,g.72,No generalization
+AS_Sketch_7.jpg,71,S40,g.71,No generalization
+AS_Sketch_7.jpg,59,S43,g.59,No generalization
+AS_Sketch_7.jpg,11,S44,g.11,No generalization
+AS_Sketch_7.jpg,128 130 131 132 126 127,S45,g.126.127.128.130.131.132,OmissionMerge
+AS_Sketch_7.jpg,2 7,S46,g.2.7,OmissionMerge
+AS_Sketch_7.jpg,122 123 124 125,S47,g.122.123.124.125,OmissionMerge
+AS_Sketch_7.jpg,56 53 54 55,S49,g.53.54.55.56,Amalgamation
+AS_Sketch_7.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S50,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+AS_Sketch_7.jpg,Features missing in sketch map,"4,5,6,33,43,111,114,119,133,134,135,136,137,138,140,146,62,63,64,65,66,67,68,73,74,76,77,78,79,80,83"
+AS_Sketch_7.jpg,Features drawn extra in sketch map, S9,S18,S48
+   
+AS_Sketch_8.jpg,0,S0,g.0,No generalization
+AS_Sketch_8.jpg,35,S1,g.35,No generalization
+AS_Sketch_8.jpg,34,S2,g.34,No generalization
+AS_Sketch_8.jpg,122 123 124 125,S3,g.122.123.124.125,OmissionMerge
+AS_Sketch_8.jpg,2 7,S4,g.2.7,OmissionMerge
+AS_Sketch_8.jpg,32 28 29,S5,g.28.29.32,OmissionMerge
+AS_Sketch_8.jpg,56 53 54 55,S6,g.53.54.55.56,Amalgamation
+AS_Sketch_8.jpg,42 44,S8,g.42.44,OmissionMerge
+AS_Sketch_8.jpg,27 45 23,S17 S9,g.23.27.45,No generalization
+AS_Sketch_8.jpg,46,S10,g.46,No generalization
+AS_Sketch_8.jpg,48 49 50 51,S11,g.48.49.50.51,Amalgamation
+AS_Sketch_8.jpg,47,S18,g.47,No generalization
+AS_Sketch_8.jpg,24,S21,g.24,No generalization
+AS_Sketch_8.jpg,26,S22,g.26,No generalization
+AS_Sketch_8.jpg,25 109 110,S23,g.25.109.110,OmissionMerge
+AS_Sketch_8.jpg,8 9,S24,g.8.9,OmissionMerge
+AS_Sketch_8.jpg,144 121 120 142,S25,g.120.121.142.144,OmissionMerge
+AS_Sketch_8.jpg,12,S26,g.12,No generalization
+AS_Sketch_8.jpg,14,S27,g.14,No generalization
+AS_Sketch_8.jpg,13,S28,g.13,No generalization
+AS_Sketch_8.jpg,11,S29,g.11,No generalization
+AS_Sketch_8.jpg,128 130 131 132 126 127,S30,g.126.127.128.130.131.132,OmissionMerge
+AS_Sketch_8.jpg,59,S31,g.59,No generalization
+AS_Sketch_8.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S32,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+AS_Sketch_8.jpg,69,S33,g.69,No generalization
+AS_Sketch_8.jpg,72 70 71,S34,g.70.71.72,Amalgamation
+AS_Sketch_8.jpg,Features missing in sketch map,"4,5,6,15,20,21,30,33,38,43,111,114,119,133,134,135,136,137,138,140,146,57,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+AS_Sketch_8.jpg,Features drawn extra in sketch map, S7,S12,S13,S14,S15,S16,S19,S35
+   
+AS_Sketch_9.jpg,0,S0,g.0,No generalization
+AS_Sketch_9.jpg,128 130 131 132 122 123 124 125 126 127,S1,g.122.123.124.125.126.127.128.130.131.132,OmissionMerge
+AS_Sketch_9.jpg,59,S2,g.59,No generalization
+AS_Sketch_9.jpg,11,S3,g.11,No generalization
+AS_Sketch_9.jpg,12,S4,g.12,No generalization
+AS_Sketch_9.jpg,14,S5,g.14,No generalization
+AS_Sketch_9.jpg,72 70 71,S6,g.70.71.72,Amalgamation
+AS_Sketch_9.jpg,13,S8,g.13,No generalization
+AS_Sketch_9.jpg,69,S10,g.69,No generalization
+AS_Sketch_9.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S11,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+AS_Sketch_9.jpg,9,S12,g.9,No generalization
+AS_Sketch_9.jpg,82,S13,g.82,No generalization
+AS_Sketch_9.jpg,24,S15,g.24,No generalization
+AS_Sketch_9.jpg,25 109 110,S16,g.25.109.110,OmissionMerge
+AS_Sketch_9.jpg,144 121 120 142,S17,g.120.121.142.144,OmissionMerge
+AS_Sketch_9.jpg,27 45 23,S18,g.23.27.45,OmissionMerge
+AS_Sketch_9.jpg,48 49 50 51,S19,g.48.49.50.51,Amalgamation
+AS_Sketch_9.jpg,46,S20,g.46,No generalization
+AS_Sketch_9.jpg,42 35 44,S21,g.35.42.44,OmissionMerge
+AS_Sketch_9.jpg,Features missing in sketch map,"2,4,5,6,7,8,15,20,21,26,28,29,30,32,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,83"
+AS_Sketch_9.jpg,Features drawn extra in sketch map, S7,S22
+   
+AS_Sketch_10.jpg,0,S0,g.0,No generalization
+AS_Sketch_10.jpg,42 35 44,S1,g.35.42.44,OmissionMerge
+AS_Sketch_10.jpg,46,S2,g.46,No generalization
+AS_Sketch_10.jpg,48 49 50 51,S3,g.48.49.50.51,Amalgamation
+AS_Sketch_10.jpg,45,S4,g.45,No generalization
+AS_Sketch_10.jpg,28 29,S5,g.28.29,OmissionMerge
+AS_Sketch_10.jpg,20 30,S6,g.20.30,OmissionMerge
+AS_Sketch_10.jpg,27 23,S7,g.23.27,OmissionMerge
+AS_Sketch_10.jpg,25,S8,g.25,No generalization
+AS_Sketch_10.jpg,24,S9,g.24,No generalization
+AS_Sketch_10.jpg,26,S10,g.26,No generalization
+AS_Sketch_10.jpg,32 33 2 7,S11,g.2.7.32.33,OmissionMerge
+AS_Sketch_10.jpg,122 123 124 125,S14,g.122.123.124.125,OmissionMerge
+AS_Sketch_10.jpg,128 130 131 132 126 127,S15,g.126.127.128.130.131.132,OmissionMerge
+AS_Sketch_10.jpg,59,S16,g.59,No generalization
+AS_Sketch_10.jpg,11,S17,g.11,No generalization
+AS_Sketch_10.jpg,13,S18,g.13,No generalization
+AS_Sketch_10.jpg,14,S19,g.14,No generalization
+AS_Sketch_10.jpg,144 120 121 110 109 142,S20,g.109.110.120.121.142.144,OmissionMerge
+AS_Sketch_10.jpg,84 85 86 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S21,g.84.85.86.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+AS_Sketch_10.jpg,72 70 71,S22,g.70.71.72,Amalgamation
+AS_Sketch_10.jpg,Features missing in sketch map,"4,5,6,8,9,12,15,21,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,69,73,74,76,77,78,79,80,81,82,83,87"
+AS_Sketch_10.jpg,Features drawn extra in sketch map, S12,S13
+   
+CM_Sketch_1.jpg,128 130 131 132 122 123 124 125 126 127,S4,g.122.123.124.125.126.127.128.130.131.132,OmissionMerge
+CM_Sketch_1.jpg,0,S3,g.0,No generalization
+CM_Sketch_1.jpg,42 35 44,S2,g.35.42.44,OmissionMerge
+CM_Sketch_1.jpg,46,S1,g.46,No generalization
+CM_Sketch_1.jpg,49,S13,g.49,No generalization
+CM_Sketch_1.jpg,51,S14,g.51,No generalization
+CM_Sketch_1.jpg,48,S15,g.48,No generalization
+CM_Sketch_1.jpg,50,S16,g.50,No generalization
+CM_Sketch_1.jpg,27 45 23,S12,g.23.27.45,OmissionMerge
+CM_Sketch_1.jpg,59,S18,g.59,No generalization
+CM_Sketch_1.jpg,72 70 71,S19,g.70.71.72,Amalgamation
+CM_Sketch_1.jpg,69,S20,g.69,No generalization
+CM_Sketch_1.jpg,11,S5,g.11,No generalization
+CM_Sketch_1.jpg,12,S6,g.12,No generalization
+CM_Sketch_1.jpg,13,S7,g.13,No generalization
+CM_Sketch_1.jpg,14,S8,g.14,No generalization
+CM_Sketch_1.jpg,60,S21,g.60,No generalization
+CM_Sketch_1.jpg,61,S22,g.61,No generalization
+CM_Sketch_1.jpg,144 25 120 121 110 109 142,S9,g.25.109.110.120.121.142.144,OmissionMerge
+CM_Sketch_1.jpg,26,S11,g.26,No generalization
+CM_Sketch_1.jpg,24,S10,g.24,No generalization
+CM_Sketch_1.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S17,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+CM_Sketch_1.jpg,Features missing in sketch map,"2,4,5,6,7,8,9,15,20,21,28,29,30,32,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+CM_Sketch_1.jpg,Features drawn extra in sketch map, S0
+   
+CM_Sketch_2.jpg,57,S30,g.57,No generalization
+CM_Sketch_2.jpg,122 123 124 125,S0,g.122.123.124.125,OmissionMerge
+CM_Sketch_2.jpg,0,S22,g.0,No generalization
+CM_Sketch_2.jpg,35,S23,g.35,No generalization
+CM_Sketch_2.jpg,42 44,S24,g.42.44,OmissionMerge
+CM_Sketch_2.jpg,46,S25,g.46,No generalization
+CM_Sketch_2.jpg,49,S31,g.49,No generalization
+CM_Sketch_2.jpg,51,S32,g.51,No generalization
+CM_Sketch_2.jpg,48,S34,g.48,No generalization
+CM_Sketch_2.jpg,50,S33,g.50,No generalization
+CM_Sketch_2.jpg,45,S26,g.45,No generalization
+CM_Sketch_2.jpg,28 29,S27,g.28.29,OmissionMerge
+CM_Sketch_2.jpg,30,S28,g.30,No generalization
+CM_Sketch_2.jpg,21,S16,g.21,No generalization
+CM_Sketch_2.jpg,32,S10,g.32,No generalization
+CM_Sketch_2.jpg,38,S11,g.38,No generalization
+CM_Sketch_2.jpg,8,S8,g.8,No generalization
+CM_Sketch_2.jpg,34,S9,g.34,No generalization
+CM_Sketch_2.jpg,2 7,S7,g.2.7,OmissionMerge
+CM_Sketch_2.jpg,128 130 131 132 126 127,S1,g.126.127.128.130.131.132,OmissionMerge
+CM_Sketch_2.jpg,13,S3,g.13,No generalization
+CM_Sketch_2.jpg,11,S2,g.11,No generalization
+CM_Sketch_2.jpg,59,S36,g.59,No generalization
+CM_Sketch_2.jpg,72,S37,g.72,No generalization
+CM_Sketch_2.jpg,71,S38,g.71,No generalization
+CM_Sketch_2.jpg,70,S39,g.70,No generalization
+CM_Sketch_2.jpg,69,S40,g.69,No generalization
+CM_Sketch_2.jpg,114,S6,g.114,No generalization
+CM_Sketch_2.jpg,120 121,S5,g.120.121,OmissionMerge
+CM_Sketch_2.jpg,14,S4,g.14,No generalization
+CM_Sketch_2.jpg,15,S21,g.15,No generalization
+CM_Sketch_2.jpg,26,S19,g.26,No generalization
+CM_Sketch_2.jpg,144 142,S13,g.142.144,OmissionMerge
+CM_Sketch_2.jpg,109 110,S14,g.109.110,OmissionMerge
+CM_Sketch_2.jpg,25,S18,g.25,No generalization
+CM_Sketch_2.jpg,23,S17,g.23,No generalization
+CM_Sketch_2.jpg,20,S15,g.20,No generalization
+CM_Sketch_2.jpg,9,S12,g.9,No generalization
+CM_Sketch_2.jpg,27,S29,g.27,No generalization
+CM_Sketch_2.jpg,24,S20,g.24,No generalization
+CM_Sketch_2.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S35,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+CM_Sketch_2.jpg,Features missing in sketch map,"4,5,6,12,33,43,111,119,133,134,135,136,137,138,140,146,47,53,54,55,56,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+CM_Sketch_2.jpg,Features drawn extra in sketch map, 
+   
+CM_Sketch_3.jpg,59,S30,g.59,No generalization
+CM_Sketch_3.jpg,56 53 54 55,S28,g.53.54.55.56,Amalgamation
+CM_Sketch_3.jpg,72 70 71,S33,g.70.71.72,Amalgamation
+CM_Sketch_3.jpg,69,S32,g.69,No generalization
+CM_Sketch_3.jpg,11,S2,g.11,No generalization
+CM_Sketch_3.jpg,12,S3,g.12,No generalization
+CM_Sketch_3.jpg,13,S4,g.13,No generalization
+CM_Sketch_3.jpg,14 15,S5,g.14.15,OmissionMerge
+CM_Sketch_3.jpg,26,S8,g.26,No generalization
+CM_Sketch_3.jpg,24,S7,g.24,No generalization
+CM_Sketch_3.jpg,27 45 23,S12,g.23.27.45,OmissionMerge
+CM_Sketch_3.jpg,48 49 50 51,S13 S14,g.48.49.50.51,Abstraction to show existence
+CM_Sketch_3.jpg,42 35 44,S9,g.35.42.44,OmissionMerge
+CM_Sketch_3.jpg,46,S11,g.46,No generalization
+CM_Sketch_3.jpg,0,S0,g.0,No generalization
+CM_Sketch_3.jpg,128 130 131 132 122 123 124 125 126 127,S1,g.122.123.124.125.126.127.128.130.131.132,OmissionMerge
+CM_Sketch_3.jpg,144 25 120 121 110 109 142,S16 S17 S22,g.25.109.110.120.121.142.144,Abstraction to show existence
+CM_Sketch_3.jpg,146 111 114 119,S24 S27,g.111.114.119.146,Abstraction to show existence
+CM_Sketch_3.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S31,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+CM_Sketch_3.jpg,Features missing in sketch map,"2,4,5,6,7,8,9,20,21,28,29,30,32,33,34,38,43,133,134,135,136,137,138,140,47,57,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+CM_Sketch_3.jpg,Features drawn extra in sketch map, S15,S29
+   
+CM_Sketch_4.jpg,0,S43,g.0,No generalization
+CM_Sketch_4.jpg,35,S42,g.35,No generalization
+CM_Sketch_4.jpg,34,S41,g.34,No generalization
+CM_Sketch_4.jpg,43,S34,g.43,No generalization
+CM_Sketch_4.jpg,44,S35,g.44,No generalization
+CM_Sketch_4.jpg,46,S0,g.46,No generalization
+CM_Sketch_4.jpg,49,S58,g.49,No generalization
+CM_Sketch_4.jpg,51,S60,g.51,No generalization
+CM_Sketch_4.jpg,48,S59,g.48,No generalization
+CM_Sketch_4.jpg,50,S61,g.50,No generalization
+CM_Sketch_4.jpg,45,S1,g.45,No generalization
+CM_Sketch_4.jpg,27,S2,g.27,No generalization
+CM_Sketch_4.jpg,23,S3,g.23,No generalization
+CM_Sketch_4.jpg,47,S57,g.47,No generalization
+CM_Sketch_4.jpg,122 123 124 125,S44,g.122.123.124.125,OmissionMerge
+CM_Sketch_4.jpg,57,S62,g.57,No generalization
+CM_Sketch_4.jpg,2,S21,g.2,No generalization
+CM_Sketch_4.jpg,7,S24,g.7,No generalization
+CM_Sketch_4.jpg,6,S22,g.6,No generalization
+CM_Sketch_4.jpg,4,S19,g.4,No generalization
+CM_Sketch_4.jpg,128 126 127,S20,g.126.127.128,OmissionMerge
+CM_Sketch_4.jpg,130 131 132,S18,g.130.131.132,OmissionMerge
+CM_Sketch_4.jpg,5,S23,g.5,No generalization
+CM_Sketch_4.jpg,81,S56,g.81,No generalization
+CM_Sketch_4.jpg,33,S39,g.33,No generalization
+CM_Sketch_4.jpg,8,S25,g.8,No generalization
+CM_Sketch_4.jpg,9,S26,g.9,No generalization
+CM_Sketch_4.jpg,29,S32,g.29,No generalization
+CM_Sketch_4.jpg,28,S33,g.28,No generalization
+CM_Sketch_4.jpg,21,S5,g.21,No generalization
+CM_Sketch_4.jpg,20,S9,g.20,No generalization
+CM_Sketch_4.jpg,30,S30,g.30,No generalization
+CM_Sketch_4.jpg,59,S45,g.59,No generalization
+CM_Sketch_4.jpg,72,S47,g.72,No generalization
+CM_Sketch_4.jpg,70,S48,g.70,No generalization
+CM_Sketch_4.jpg,71,S49,g.71,No generalization
+CM_Sketch_4.jpg,11,S17,g.11,No generalization
+CM_Sketch_4.jpg,120 121,S12,g.120.121,OmissionMerge
+CM_Sketch_4.jpg,12,S13,g.12,No generalization
+CM_Sketch_4.jpg,13,S14,g.13,No generalization
+CM_Sketch_4.jpg,14,S15,g.14,No generalization
+CM_Sketch_4.jpg,114,S16,g.114,No generalization
+CM_Sketch_4.jpg,144 142,S11,g.142.144,OmissionMerge
+CM_Sketch_4.jpg,109 110,S10,g.109.110,OmissionMerge
+CM_Sketch_4.jpg,25,S8,g.25,No generalization
+CM_Sketch_4.jpg,26,S6,g.26,No generalization
+CM_Sketch_4.jpg,24,S4,g.24,No generalization
+CM_Sketch_4.jpg,15,S7,g.15,No generalization
+CM_Sketch_4.jpg,60,S50,g.60,No generalization
+CM_Sketch_4.jpg,61,S51,g.61,No generalization
+CM_Sketch_4.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S46,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+CM_Sketch_4.jpg,32,S64,g.32,No generalization
+CM_Sketch_4.jpg,42,S40,g.42,No generalization
+CM_Sketch_4.jpg,53,S54,g.53,No generalization
+CM_Sketch_4.jpg,54,S52,g.54,No generalization
+CM_Sketch_4.jpg,56,S53,g.56,No generalization
+CM_Sketch_4.jpg,55,S55,g.55,No generalization
+CM_Sketch_4.jpg,38,S27,g.38,No generalization
+CM_Sketch_4.jpg,Features missing in sketch map,"111,119,133,134,135,136,137,138,140,146,58,62,63,64,65,66,67,68,69,73,74,76,77,78,79,80,82,83"
+CM_Sketch_4.jpg,Features drawn extra in sketch map, S63
+   
+CM_Sketch_5.jpg,128 130 131 132 122 123 124 125 126 127,S50 S46 S48 S52,g.122.123.124.125.126.127.128.130.131.132,Abstraction to show existence
+CM_Sketch_5.jpg,133 134 135 136 137 138 140,S49 S47 S51,g.133.134.135.136.137.138.140,Abstraction to show existence
+CM_Sketch_5.jpg,59,S28,g.59,No generalization
+CM_Sketch_5.jpg,72 70 71,S29,g.70.71.72,Amalgamation
+CM_Sketch_5.jpg,69,S30,g.69,No generalization
+CM_Sketch_5.jpg,80 73 74 76 77 78 79,S32 S33 S31 S34,g.73.74.76.77.78.79.80,Abstraction to show existence
+CM_Sketch_5.jpg,64 65 66 67 68 60 61 62 63,S36 S35 S37 S39 S38,g.60.61.62.63.64.65.66.67.68,Abstraction to show existence
+CM_Sketch_5.jpg,11,S12,g.11,No generalization
+CM_Sketch_5.jpg,12,S13,g.12,No generalization
+CM_Sketch_5.jpg,13,S15,g.13,No generalization
+CM_Sketch_5.jpg,14,S14,g.14,No generalization
+CM_Sketch_5.jpg,120 121 144 142,S16,g.120.121.142.144,OmissionMerge
+CM_Sketch_5.jpg,9,S18,g.9,No generalization
+CM_Sketch_5.jpg,81,S40,g.81,No generalization
+CM_Sketch_5.jpg,82,S41,g.82,No generalization
+CM_Sketch_5.jpg,83,S42,g.83,No generalization
+CM_Sketch_5.jpg,25 109 110,S17,g.25.109.110,OmissionMerge
+CM_Sketch_5.jpg,47,S43,g.47,No generalization
+CM_Sketch_5.jpg,27 45 23,S25,g.23.27.45,OmissionMerge
+CM_Sketch_5.jpg,48 49 50 51,S44,g.48.49.50.51,Amalgamation
+CM_Sketch_5.jpg,46,S23,g.46,No generalization
+CM_Sketch_5.jpg,42 35 44,S24,g.35.42.44,OmissionMerge
+CM_Sketch_5.jpg,0,S45,g.0,No generalization
+CM_Sketch_5.jpg,24,S20,g.24,No generalization
+CM_Sketch_5.jpg,26,S19,g.26,No generalization
+CM_Sketch_5.jpg,57,S26,g.57,Collapse
+CM_Sketch_5.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S27,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+CM_Sketch_5.jpg,Features missing in sketch map,"2,4,5,6,7,8,15,20,21,28,29,30,32,33,34,38,43,111,114,119,146,53,54,55,56,58"
+CM_Sketch_5.jpg,Features drawn extra in sketch map, 
+   
+CM_Sketch_6.jpg,128 130 131 132 122 123 124 125 126 127,S6,g.122.123.124.125.126.127.128.130.131.132,OmissionMerge
+CM_Sketch_6.jpg,42 35 44,S2,g.35.42.44,OmissionMerge
+CM_Sketch_6.jpg,46,S3,g.46,No generalization
+CM_Sketch_6.jpg,49,S16,g.49,No generalization
+CM_Sketch_6.jpg,51,S17,g.51,No generalization
+CM_Sketch_6.jpg,48,S18,g.48,No generalization
+CM_Sketch_6.jpg,50,S19,g.50,No generalization
+CM_Sketch_6.jpg,27 45 23,S5,g.23.27.45,OmissionMerge
+CM_Sketch_6.jpg,144 25 120 121 142 109 110,S8,g.25.109.110.120.121.142.144,OmissionMerge
+CM_Sketch_6.jpg,24,S13,g.24,No generalization
+CM_Sketch_6.jpg,26,S12,g.26,No generalization
+CM_Sketch_6.jpg,59,S15,g.59,No generalization
+CM_Sketch_6.jpg,11,S7,g.11,No generalization
+CM_Sketch_6.jpg,12,S9,g.12,No generalization
+CM_Sketch_6.jpg,13,S10,g.13,No generalization
+CM_Sketch_6.jpg,14,S11,g.14,No generalization
+CM_Sketch_6.jpg,0,S0,g.0,No generalization
+CM_Sketch_6.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S14,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+CM_Sketch_6.jpg,Features missing in sketch map,"2,4,5,6,7,8,9,15,20,21,28,29,30,32,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,76,77,78,79,80,81,82,83"
+CM_Sketch_6.jpg,Features drawn extra in sketch map, S1,S4
+   
+CM_Sketch_7.jpg,56 53 54 55,S29,g.53.54.55.56,Amalgamation
+CM_Sketch_7.jpg,58,S30,g.58,No generalization
+CM_Sketch_7.jpg,57,S31,g.57,No generalization
+CM_Sketch_7.jpg,128 130 131 132 126 127,S3,g.126.127.128.130.131.132,OmissionMerge
+CM_Sketch_7.jpg,59,S48,g.59,No generalization
+CM_Sketch_7.jpg,72,S43,g.72,No generalization
+CM_Sketch_7.jpg,71,S44,g.71,No generalization
+CM_Sketch_7.jpg,70,S45,g.70,No generalization
+CM_Sketch_7.jpg,60,S42,g.60,No generalization
+CM_Sketch_7.jpg,61,S41,g.61,No generalization
+CM_Sketch_7.jpg,69,S40,g.69,No generalization
+CM_Sketch_7.jpg,11,S4,g.11,No generalization
+CM_Sketch_7.jpg,12,S6,g.12,No generalization
+CM_Sketch_7.jpg,13,S7,g.13,No generalization
+CM_Sketch_7.jpg,14 15,S17,g.14.15,OmissionMerge
+CM_Sketch_7.jpg,120 121 144 142,S5,g.120.121.142.144,OmissionMerge
+CM_Sketch_7.jpg,109 110,S11,g.109.110,OmissionMerge
+CM_Sketch_7.jpg,25,S12,g.25,No generalization
+CM_Sketch_7.jpg,81,S38,g.81,No generalization
+CM_Sketch_7.jpg,82,S39,g.82,No generalization
+CM_Sketch_7.jpg,122 123 124 125,S1,g.122.123.124.125,OmissionMerge
+CM_Sketch_7.jpg,2 7,S2,g.2.7,OmissionMerge
+CM_Sketch_7.jpg,34,S26,g.34,No generalization
+CM_Sketch_7.jpg,35,S27,g.35,No generalization
+CM_Sketch_7.jpg,0,S0,g.0,No generalization
+CM_Sketch_7.jpg,8,S18,g.8,No generalization
+CM_Sketch_7.jpg,9,S8,g.9,No generalization
+CM_Sketch_7.jpg,38,S9,g.38,No generalization
+CM_Sketch_7.jpg,32,S19,g.32,No generalization
+CM_Sketch_7.jpg,28 29,S21,g.28.29,OmissionMerge
+CM_Sketch_7.jpg,30,S20,g.30,No generalization
+CM_Sketch_7.jpg,20,S10,g.20,No generalization
+CM_Sketch_7.jpg,21,S13,g.21,No generalization
+CM_Sketch_7.jpg,48,S35,g.48,No generalization
+CM_Sketch_7.jpg,49,S33,g.49,No generalization
+CM_Sketch_7.jpg,51,S34,g.51,No generalization
+CM_Sketch_7.jpg,50,S36,g.50,No generalization
+CM_Sketch_7.jpg,42 44,S25,g.42.44,OmissionMerge
+CM_Sketch_7.jpg,46,S24,g.46,No generalization
+CM_Sketch_7.jpg,45,S23,g.45,No generalization
+CM_Sketch_7.jpg,27,S22,g.27,No generalization
+CM_Sketch_7.jpg,23,S14,g.23,No generalization
+CM_Sketch_7.jpg,26,S16,g.26,No generalization
+CM_Sketch_7.jpg,24,S15,g.24,No generalization
+CM_Sketch_7.jpg,47,S37,g.47,No generalization
+CM_Sketch_7.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S28,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+CM_Sketch_7.jpg,Features missing in sketch map,"4,5,6,33,43,111,114,119,133,134,135,136,137,138,140,146,62,63,64,65,66,67,68,73,74,76,77,78,79,80,83"
+CM_Sketch_7.jpg,Features drawn extra in sketch map, S32,S46,S47
+   
+CM_Sketch_8.jpg,0,S0,g.0,No generalization
+CM_Sketch_8.jpg,35,S9,g.35,No generalization
+CM_Sketch_8.jpg,42 44,S11,g.42.44,OmissionMerge
+CM_Sketch_8.jpg,34,S10,g.34,No generalization
+CM_Sketch_8.jpg,8 9,S4,g.8.9,OmissionMerge
+CM_Sketch_8.jpg,56 53 54 55,S22,g.53.54.55.56,Amalgamation
+CM_Sketch_8.jpg,46,S13,g.46,No generalization
+CM_Sketch_8.jpg,48 49 50 51,S30,g.48.49.50.51,Amalgamation
+CM_Sketch_8.jpg,45,S12,g.45,No generalization
+CM_Sketch_8.jpg,32 28 29,S6,g.28.29.32,OmissionMerge
+CM_Sketch_8.jpg,2 7,S2,g.2.7,OmissionMerge
+CM_Sketch_8.jpg,27 23,S7,g.23.27,OmissionMerge
+CM_Sketch_8.jpg,24,S14,g.24,No generalization
+CM_Sketch_8.jpg,26,S15,g.26,No generalization
+CM_Sketch_8.jpg,25 109 110,S8,g.25.109.110,OmissionMerge
+CM_Sketch_8.jpg,120 121 144 142,S5,g.120.121.142.144,OmissionMerge
+CM_Sketch_8.jpg,69,S26,g.69,No generalization
+CM_Sketch_8.jpg,14,S18,g.14,No generalization
+CM_Sketch_8.jpg,12,S17,g.12,No generalization
+CM_Sketch_8.jpg,13,S19,g.13,No generalization
+CM_Sketch_8.jpg,128 130 131 132 126 127,S3,g.126.127.128.130.131.132,OmissionMerge
+CM_Sketch_8.jpg,59,S23,g.59,No generalization
+CM_Sketch_8.jpg,72 70 71,S24,g.70.71.72,Amalgamation
+CM_Sketch_8.jpg,122 123 124 125,S1,g.122.123.124.125,OmissionMerge
+CM_Sketch_8.jpg,11,S16,g.11,No generalization
+CM_Sketch_8.jpg,47,S27,g.47,No generalization
+CM_Sketch_8.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S20,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+CM_Sketch_8.jpg,Features missing in sketch map,"4,5,6,15,20,21,30,33,38,43,111,114,119,133,134,135,136,137,138,140,146,57,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+CM_Sketch_8.jpg,Features drawn extra in sketch map, S21,S25,S28,S31,S32,S33,S34,S35
+   
+CM_Sketch_9.jpg,59,S15,g.59,No generalization
+CM_Sketch_9.jpg,72 70 71,S16,g.70.71.72,Amalgamation
+CM_Sketch_9.jpg,11,S4,g.11,No generalization
+CM_Sketch_9.jpg,12,S11,g.12,No generalization
+CM_Sketch_9.jpg,13,S13,g.13,No generalization
+CM_Sketch_9.jpg,14,S12,g.14,No generalization
+CM_Sketch_9.jpg,69,S18,g.69,No generalization
+CM_Sketch_9.jpg,128 130 131 132 122 123 124 125 126 127,S3,g.122.123.124.125.126.127.128.130.131.132,OmissionMerge
+CM_Sketch_9.jpg,0,S0,g.0,No generalization
+CM_Sketch_9.jpg,42 35 44,S1,g.35.42.44,OmissionMerge
+CM_Sketch_9.jpg,46,S2,g.46,No generalization
+CM_Sketch_9.jpg,27 45 23,S9,g.23.27.45,OmissionMerge
+CM_Sketch_9.jpg,48 49 50 51,S10,g.48.49.50.51,Amalgamation
+CM_Sketch_9.jpg,120 121 144 142,S5,g.120.121.142.144,OmissionMerge
+CM_Sketch_9.jpg,9,S6,g.9,No generalization
+CM_Sketch_9.jpg,82,S19,g.82,No generalization
+CM_Sketch_9.jpg,25 109 110,S7,g.25.109.110,OmissionMerge
+CM_Sketch_9.jpg,24,S8,g.24,No generalization
+CM_Sketch_9.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S14,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+CM_Sketch_9.jpg,Features missing in sketch map,"2,4,5,6,7,8,15,20,21,26,28,29,30,32,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,83"
+CM_Sketch_9.jpg,Features drawn extra in sketch map, S17,S20
+   
+JK_Sketch_1.jpg,48 49 50 51,S19 S21 S22 S20,g.48.49.50.51,Abstraction to show existence
+JK_Sketch_1.jpg,46,S1,g.46,No generalization
+JK_Sketch_1.jpg,42 35 44,S12,g.35.42.44,OmissionMerge
+JK_Sketch_1.jpg,0,S11,g.0,No generalization
+JK_Sketch_1.jpg,128 130 131 132 122 123 124 125 126 127,S9,g.122.123.124.125.126.127.128.130.131.132,OmissionMerge
+JK_Sketch_1.jpg,12,S6,g.12,No generalization
+JK_Sketch_1.jpg,11,S10,g.11,No generalization
+JK_Sketch_1.jpg,13,S7,g.13,No generalization
+JK_Sketch_1.jpg,14,S8,g.14,No generalization
+JK_Sketch_1.jpg,144 25 120 121 110 109 142,S5,g.25.109.110.120.121.142.144,OmissionMerge
+JK_Sketch_1.jpg,26,S3,g.26,No generalization
+JK_Sketch_1.jpg,24,S4,g.24,No generalization
+JK_Sketch_1.jpg,27 45 23,S2,g.23.27.45,OmissionMerge
+JK_Sketch_1.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S13,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+JK_Sketch_1.jpg,59,S14,g.59,No generalization
+JK_Sketch_1.jpg,72 70 71,S15,g.70.71.72,Amalgamation
+JK_Sketch_1.jpg,69,S16,g.69,No generalization
+JK_Sketch_1.jpg,60,S17,g.60,No generalization
+JK_Sketch_1.jpg,61,S18,g.61,No generalization
+JK_Sketch_1.jpg,Features missing in sketch map,"2,4,5,6,7,8,9,15,20,21,28,29,30,32,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+JK_Sketch_1.jpg,Features drawn extra in sketch map, S0
+   
+JK_Sketch_2.jpg,49,S30,g.49,No generalization
+JK_Sketch_2.jpg,51,S33,g.51,No generalization
+JK_Sketch_2.jpg,48,S31,g.48,No generalization
+JK_Sketch_2.jpg,50,S32,g.50,No generalization
+JK_Sketch_2.jpg,57,S34,g.57,No generalization
+JK_Sketch_2.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S35,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+JK_Sketch_2.jpg,59,S36,g.59,No generalization
+JK_Sketch_2.jpg,72,S37,g.72,No generalization
+JK_Sketch_2.jpg,70,S39,g.70,No generalization
+JK_Sketch_2.jpg,71,S38,g.71,No generalization
+JK_Sketch_2.jpg,69,S40,g.69,No generalization
+JK_Sketch_2.jpg,11,S13,g.11,No generalization
+JK_Sketch_2.jpg,12 13 14,S15 S14,g.12.13.14,OmissionMerge
+JK_Sketch_2.jpg,15,S16,g.15,No generalization
+JK_Sketch_2.jpg,114,S17,g.114,No generalization
+JK_Sketch_2.jpg,120 121,S12,g.120.121,OmissionMerge
+JK_Sketch_2.jpg,144 142,S11,g.142.144,OmissionMerge
+JK_Sketch_2.jpg,109 110,S10,g.109.110,OmissionMerge
+JK_Sketch_2.jpg,25,S9,g.25,No generalization
+JK_Sketch_2.jpg,24,S8,g.24,No generalization
+JK_Sketch_2.jpg,26,S7,g.26,No generalization
+JK_Sketch_2.jpg,9,S22,g.9,No generalization
+JK_Sketch_2.jpg,20,S24,g.20,No generalization
+JK_Sketch_2.jpg,38,S26,g.38,No generalization
+JK_Sketch_2.jpg,21,S25,g.21,No generalization
+JK_Sketch_2.jpg,23,S6,g.23,No generalization
+JK_Sketch_2.jpg,27,S5,g.27,No generalization
+JK_Sketch_2.jpg,45,S4,g.45,No generalization
+JK_Sketch_2.jpg,46,S3,g.46,No generalization
+JK_Sketch_2.jpg,42 44,S2,g.42.44,OmissionMerge
+JK_Sketch_2.jpg,35,S1,g.35,No generalization
+JK_Sketch_2.jpg,0,S0,g.0,No generalization
+JK_Sketch_2.jpg,122 123 124 125,S18,g.122.123.124.125,OmissionMerge
+JK_Sketch_2.jpg,128 130 131 132 126 127,S19,g.126.127.128.130.131.132,OmissionMerge
+JK_Sketch_2.jpg,2 7,S27,g.2.7,OmissionMerge
+JK_Sketch_2.jpg,34,S20,g.34,No generalization
+JK_Sketch_2.jpg,32,S28,g.32,No generalization
+JK_Sketch_2.jpg,28 29,S29,g.28.29,OmissionMerge
+JK_Sketch_2.jpg,30,S23,g.30,No generalization
+JK_Sketch_2.jpg,8,S21,g.8,No generalization
+JK_Sketch_2.jpg,Features missing in sketch map,"4,5,6,33,43,111,119,133,134,135,136,137,138,140,146,47,53,54,55,56,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+JK_Sketch_2.jpg,Features drawn extra in sketch map, 
+   
+JK_Sketch_3.jpg,46,S2,g.46,No generalization
+JK_Sketch_3.jpg,42 35 44,S1,g.35.42.44,OmissionMerge
+JK_Sketch_3.jpg,0,S0,g.0,No generalization
+JK_Sketch_3.jpg,128 130 131 132 122 123 124 125 126 127,S15,g.122.123.124.125.126.127.128.130.131.132,OmissionMerge
+JK_Sketch_3.jpg,11,S9,g.11,No generalization
+JK_Sketch_3.jpg,12,S12,g.12,No generalization
+JK_Sketch_3.jpg,13,S13,g.13,No generalization
+JK_Sketch_3.jpg,14 15,S14,g.14.15,OmissionMerge
+JK_Sketch_3.jpg,144 25 120 121 110 109 142,S7 S6 S8,g.25.109.110.120.121.142.144,Abstraction to show existence
+JK_Sketch_3.jpg,114 111 119 146,S10 S11,g.111.114.119.146,Abstraction to show existence
+JK_Sketch_3.jpg,24,S5,g.24,No generalization
+JK_Sketch_3.jpg,26,S4,g.26,No generalization
+JK_Sketch_3.jpg,27 45 23,S3,g.23.27.45,OmissionMerge
+JK_Sketch_3.jpg,48 49 50 51,S16 S17,g.48.49.50.51,Abstraction to show existence
+JK_Sketch_3.jpg,56 53 54 55,S20,g.53.54.55.56,Amalgamation
+JK_Sketch_3.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S21,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+JK_Sketch_3.jpg,59,S22,g.59,No generalization
+JK_Sketch_3.jpg,69,S24,g.69,No generalization
+JK_Sketch_3.jpg,72 70 71,S23,g.70.71.72,Amalgamation
+JK_Sketch_3.jpg,Features missing in sketch map,"2,4,5,6,7,8,9,20,21,28,29,30,32,33,34,38,43,133,134,135,136,137,138,140,47,57,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+JK_Sketch_3.jpg,Features drawn extra in sketch map, S18,S19
+   
+JK_Sketch_4.jpg,46,S4,g.46,No generalization
+JK_Sketch_4.jpg,44,S3,g.44,No generalization
+JK_Sketch_4.jpg,42,S2,g.42,No generalization
+JK_Sketch_4.jpg,35,S1,g.35,No generalization
+JK_Sketch_4.jpg,0,S0,g.0,No generalization
+JK_Sketch_4.jpg,122 123 124 125,S59,g.122.123.124.125,OmissionMerge
+JK_Sketch_4.jpg,57,S58,g.57,No generalization
+JK_Sketch_4.jpg,2,S18,g.2,No generalization
+JK_Sketch_4.jpg,7,S19,g.7,No generalization
+JK_Sketch_4.jpg,6,S22,g.6,No generalization
+JK_Sketch_4.jpg,4,S23,g.4,No generalization
+JK_Sketch_4.jpg,128 126 127,S26,g.126.127.128,OmissionMerge
+JK_Sketch_4.jpg,130 131 132,S34,g.130.131.132,OmissionMerge
+JK_Sketch_4.jpg,11,S27,g.11,No generalization
+JK_Sketch_4.jpg,12,S35,g.12,No generalization
+JK_Sketch_4.jpg,13,S36,g.13,No generalization
+JK_Sketch_4.jpg,14,S37,g.14,No generalization
+JK_Sketch_4.jpg,114,S38,g.114,No generalization
+JK_Sketch_4.jpg,15,S39,g.15,No generalization
+JK_Sketch_4.jpg,120 121,S28,g.120.121,OmissionMerge
+JK_Sketch_4.jpg,144 142,S29,g.142.144,OmissionMerge
+JK_Sketch_4.jpg,9,S33,g.9,No generalization
+JK_Sketch_4.jpg,5,S17,g.5,No generalization
+JK_Sketch_4.jpg,25 109 110,S31,g.25.109.110,OmissionMerge
+JK_Sketch_4.jpg,24,S14,g.24,No generalization
+JK_Sketch_4.jpg,26,S8,g.26,No generalization
+JK_Sketch_4.jpg,23,S7,g.23,No generalization
+JK_Sketch_4.jpg,27,S6,g.27,No generalization
+JK_Sketch_4.jpg,45,S5,g.45,No generalization
+JK_Sketch_4.jpg,43,S13,g.43,No generalization
+JK_Sketch_4.jpg,28,S9,g.28,No generalization
+JK_Sketch_4.jpg,29,S10,g.29,No generalization
+JK_Sketch_4.jpg,32,S11,g.32,No generalization
+JK_Sketch_4.jpg,34,S12,g.34,No generalization
+JK_Sketch_4.jpg,33,S20,g.33,No generalization
+JK_Sketch_4.jpg,8,S21,g.8,No generalization
+JK_Sketch_4.jpg,30,S24,g.30,No generalization
+JK_Sketch_4.jpg,38,S16,g.38,No generalization
+JK_Sketch_4.jpg,21,S15,g.21,No generalization
+JK_Sketch_4.jpg,20,S32,g.20,No generalization
+JK_Sketch_4.jpg,70,S49,g.70,No generalization
+JK_Sketch_4.jpg,72,S50,g.72,No generalization
+JK_Sketch_4.jpg,71,S51,g.71,No generalization
+JK_Sketch_4.jpg,59,S52,g.59,No generalization
+JK_Sketch_4.jpg,60,S47,g.60,No generalization
+JK_Sketch_4.jpg,61,S48,g.61,No generalization
+JK_Sketch_4.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S53,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+JK_Sketch_4.jpg,81,S46,g.81,No generalization
+JK_Sketch_4.jpg,47,S45,g.47,No generalization
+JK_Sketch_4.jpg,49,S41,g.49,No generalization
+JK_Sketch_4.jpg,51,S43,g.51,No generalization
+JK_Sketch_4.jpg,50,S44,g.50,No generalization
+JK_Sketch_4.jpg,48,S42,g.48,No generalization
+JK_Sketch_4.jpg,53,S55,g.53,No generalization
+JK_Sketch_4.jpg,55,S57,g.55,No generalization
+JK_Sketch_4.jpg,56,S56,g.56,No generalization
+JK_Sketch_4.jpg,54,S54,g.54,No generalization
+JK_Sketch_4.jpg,Features missing in sketch map,"111,119,133,134,135,136,137,138,140,146,58,62,63,64,65,66,67,68,69,73,74,76,77,78,79,80,82,83"
+JK_Sketch_4.jpg,Features drawn extra in sketch map, S30,S40
+   
+JK_Sketch_5.jpg,46,S2,g.46,No generalization
+JK_Sketch_5.jpg,42 35 44,S1,g.35.42.44,OmissionMerge
+JK_Sketch_5.jpg,0,S0,g.0,No generalization
+JK_Sketch_5.jpg,128 130 131 132 122 123 124 125 126 127,S7 S6 S5 S4,g.122.123.124.125.126.127.128.130.131.132,Abstraction to show existence
+JK_Sketch_5.jpg,133 134 135 136 137 138 140,S10 S9 S8,g.133.134.135.136.137.138.140,Abstraction to show existence
+JK_Sketch_5.jpg,11,S11,g.11,No generalization
+JK_Sketch_5.jpg,12,S15,g.12,No generalization
+JK_Sketch_5.jpg,13,S16,g.13,No generalization
+JK_Sketch_5.jpg,14,S17,g.14,No generalization
+JK_Sketch_5.jpg,120 121 144 142,S12,g.120.121.142.144,OmissionMerge
+JK_Sketch_5.jpg,9,S14,g.9,No generalization
+JK_Sketch_5.jpg,25 109 110,S13,g.25.109.110,OmissionMerge
+JK_Sketch_5.jpg,26,S18,g.26,No generalization
+JK_Sketch_5.jpg,24,S19,g.24,No generalization
+JK_Sketch_5.jpg,27 45 23,S3,g.23.27.45,OmissionMerge
+JK_Sketch_5.jpg,48 49 50 51,S20,g.48.49.50.51,Amalgamation
+JK_Sketch_5.jpg,47,S38,g.47,No generalization
+JK_Sketch_5.jpg,83,S37,g.83,No generalization
+JK_Sketch_5.jpg,82,S36,g.82,No generalization
+JK_Sketch_5.jpg,81,S35,g.81,No generalization
+JK_Sketch_5.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S23,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+JK_Sketch_5.jpg,59,S22,g.59,No generalization
+JK_Sketch_5.jpg,72 70 71,S24,g.70.71.72,Amalgamation
+JK_Sketch_5.jpg,69,S25,g.69,No generalization
+JK_Sketch_5.jpg,64 65 66 67 68 60 61 62 63,S27 S30 S26 S28 S29,g.60.61.62.63.64.65.66.67.68,Abstraction to show existence
+JK_Sketch_5.jpg,80 73 74 76 77 78 79,S32 S33 S31 S34,g.73.74.76.77.78.79.80,Abstraction to show existence
+JK_Sketch_5.jpg,57,S21,g.57,Collapse
+JK_Sketch_5.jpg,Features missing in sketch map,"2,4,5,6,7,8,15,20,21,28,29,30,32,33,34,38,43,111,114,119,146,53,54,55,56,58"
+JK_Sketch_5.jpg,Features drawn extra in sketch map, 
+   
+CM_Sketch_10.jpg,122 123 124 125,S2,g.122.123.124.125,OmissionMerge
+CM_Sketch_10.jpg,128 130 131 132 126 127,S4,g.126.127.128.130.131.132,OmissionMerge
+CM_Sketch_10.jpg,11,S16,g.11,No generalization
+CM_Sketch_10.jpg,13,S17,g.13,No generalization
+CM_Sketch_10.jpg,14,S18,g.14,No generalization
+CM_Sketch_10.jpg,144 120 121 110 109 142,S5,g.109.110.120.121.142.144,OmissionMerge
+CM_Sketch_10.jpg,59,S19,g.59,No generalization
+CM_Sketch_10.jpg,72 70 71,S20,g.70.71.72,Amalgamation
+CM_Sketch_10.jpg,32 33 2 7,S3,g.2.7.32.33,OmissionMerge
+CM_Sketch_10.jpg,28 29,S10,g.28.29,OmissionMerge
+CM_Sketch_10.jpg,0,S0,g.0,No generalization
+CM_Sketch_10.jpg,42 35 44,S1,g.35.42.44,OmissionMerge
+CM_Sketch_10.jpg,46,S8,g.46,No generalization
+CM_Sketch_10.jpg,48 49 50 51,S22,g.48.49.50.51,Amalgamation
+CM_Sketch_10.jpg,45,S9,g.45,No generalization
+CM_Sketch_10.jpg,27 23,S15,g.23.27,OmissionMerge
+CM_Sketch_10.jpg,20 30,S11,g.20.30,OmissionMerge
+CM_Sketch_10.jpg,24,S14,g.24,No generalization
+CM_Sketch_10.jpg,26,S13,g.26,No generalization
+CM_Sketch_10.jpg,25,S12,g.25,No generalization
+CM_Sketch_10.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S21,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+CM_Sketch_10.jpg,Features missing in sketch map,"4,5,6,8,9,12,15,21,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,69,73,74,76,77,78,79,80,81,82,83"
+CM_Sketch_10.jpg,Features drawn extra in sketch map, S23,S24
+   
+JK_Sketch_6.jpg,0,S0,g.0,No generalization
+JK_Sketch_6.jpg,42 35 44,S2,g.35.42.44,OmissionMerge
+JK_Sketch_6.jpg,46,S4,g.46,No generalization
+JK_Sketch_6.jpg,48 49 50 51,S15 S16 S14 S17,g.48.49.50.51,Abstraction to show existence
+JK_Sketch_6.jpg,27 45 23,S5,g.23.27.45,OmissionMerge
+JK_Sketch_6.jpg,128 130 131 132 122 123 124 125 126 127,S6,g.122.123.124.125.126.127.128.130.131.132,OmissionMerge
+JK_Sketch_6.jpg,59,S19,g.59,No generalization
+JK_Sketch_6.jpg,11,S7,g.11,No generalization
+JK_Sketch_6.jpg,12,S8,g.12,No generalization
+JK_Sketch_6.jpg,13,S9,g.13,No generalization
+JK_Sketch_6.jpg,14,S10,g.14,No generalization
+JK_Sketch_6.jpg,144 25 120 121 110 109 142,S11,g.25.109.110.120.121.142.144,OmissionMerge
+JK_Sketch_6.jpg,26,S12,g.26,No generalization
+JK_Sketch_6.jpg,24,S13,g.24,No generalization
+JK_Sketch_6.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S18,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+JK_Sketch_6.jpg,Features missing in sketch map,"2,4,5,6,7,8,9,15,20,21,28,29,30,32,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,76,77,78,79,80,81,82,83"
+JK_Sketch_6.jpg,Features drawn extra in sketch map, S1,S3
+   
+JK_Sketch_7.jpg,0,S0,g.0,No generalization
+JK_Sketch_7.jpg,35,S1,g.35,No generalization
+JK_Sketch_7.jpg,42 44,S2,g.42.44,OmissionMerge
+JK_Sketch_7.jpg,46,S3,g.46,No generalization
+JK_Sketch_7.jpg,49,S31,g.49,No generalization
+JK_Sketch_7.jpg,48,S33,g.48,No generalization
+JK_Sketch_7.jpg,50,S34,g.50,No generalization
+JK_Sketch_7.jpg,51,S32,g.51,No generalization
+JK_Sketch_7.jpg,45,S4,g.45,No generalization
+JK_Sketch_7.jpg,28 29,S7,g.28.29,OmissionMerge
+JK_Sketch_7.jpg,32,S6,g.32,No generalization
+JK_Sketch_7.jpg,34,S5,g.34,No generalization
+JK_Sketch_7.jpg,2 7,S20,g.2.7,OmissionMerge
+JK_Sketch_7.jpg,8,S19,g.8,No generalization
+JK_Sketch_7.jpg,9,S17,g.9,No generalization
+JK_Sketch_7.jpg,20,S11,g.20,No generalization
+JK_Sketch_7.jpg,38,S18,g.38,No generalization
+JK_Sketch_7.jpg,30,S9,g.30,No generalization
+JK_Sketch_7.jpg,21,S10,g.21,No generalization
+JK_Sketch_7.jpg,27,S8,g.27,No generalization
+JK_Sketch_7.jpg,23,S12,g.23,No generalization
+JK_Sketch_7.jpg,47,S36,g.47,No generalization
+JK_Sketch_7.jpg,24,S13,g.24,No generalization
+JK_Sketch_7.jpg,26,S14,g.26,No generalization
+JK_Sketch_7.jpg,25,S15,g.25,No generalization
+JK_Sketch_7.jpg,109 110,S16,g.109.110,OmissionMerge
+JK_Sketch_7.jpg,82,S38,g.82,No generalization
+JK_Sketch_7.jpg,81,S37,g.81,No generalization
+JK_Sketch_7.jpg,69,S39,g.69,No generalization
+JK_Sketch_7.jpg,59,S48,g.59,No generalization
+JK_Sketch_7.jpg,72,S42,g.72,No generalization
+JK_Sketch_7.jpg,71,S43,g.71,No generalization
+JK_Sketch_7.jpg,70,S44,g.70,No generalization
+JK_Sketch_7.jpg,120 121 144 142,S24,g.120.121.142.144,OmissionMerge
+JK_Sketch_7.jpg,14 15,S27,g.14.15,OmissionMerge
+JK_Sketch_7.jpg,60,S40,g.60,No generalization
+JK_Sketch_7.jpg,61,S41,g.61,No generalization
+JK_Sketch_7.jpg,13,S26,g.13,No generalization
+JK_Sketch_7.jpg,12,S25,g.12,No generalization
+JK_Sketch_7.jpg,128 130 131 132 126 127,S22,g.126.127.128.130.131.132,OmissionMerge
+JK_Sketch_7.jpg,122 123 124 125,S21,g.122.123.124.125,OmissionMerge
+JK_Sketch_7.jpg,57,S29,g.57,No generalization
+JK_Sketch_7.jpg,58,S28,g.58,No generalization
+JK_Sketch_7.jpg,56 53 54 55,S46,g.53.54.55.56,Amalgamation
+JK_Sketch_7.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S45,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+JK_Sketch_7.jpg,Features missing in sketch map,"4,5,6,11,33,43,111,114,119,133,134,135,136,137,138,140,146,62,63,64,65,66,67,68,73,74,76,77,78,79,80,83"
+JK_Sketch_7.jpg,Features drawn extra in sketch map, S23,S30,S35,S47
+   
+JK_Sketch_8.jpg,0,S0,g.0,No generalization
+JK_Sketch_8.jpg,35,S4,g.35,No generalization
+JK_Sketch_8.jpg,42 44,S5,g.42.44,OmissionMerge
+JK_Sketch_8.jpg,46,S8,g.46,No generalization
+JK_Sketch_8.jpg,45,S6,g.45,No generalization
+JK_Sketch_8.jpg,32 28 29,S7,g.28.29.32,OmissionMerge
+JK_Sketch_8.jpg,34,S3,g.34,No generalization
+JK_Sketch_8.jpg,8 9,S21,g.8.9,OmissionMerge
+JK_Sketch_8.jpg,2 7,S2,g.2.7,OmissionMerge
+JK_Sketch_8.jpg,122 123 124 125,S1,g.122.123.124.125,OmissionMerge
+JK_Sketch_8.jpg,128 130 131 132 126 127,S22,g.126.127.128.130.131.132,OmissionMerge
+JK_Sketch_8.jpg,27 23,S17,g.23.27,OmissionMerge
+JK_Sketch_8.jpg,24,S18,g.24,No generalization
+JK_Sketch_8.jpg,26,S19,g.26,No generalization
+JK_Sketch_8.jpg,25 109 110,S20,g.25.109.110,OmissionMerge
+JK_Sketch_8.jpg,144 121 120 142,S24,g.120.121.142.144,OmissionMerge
+JK_Sketch_8.jpg,11,S23,g.11,No generalization
+JK_Sketch_8.jpg,12,S25,g.12,No generalization
+JK_Sketch_8.jpg,13,S26,g.13,No generalization
+JK_Sketch_8.jpg,14,S27,g.14,No generalization
+JK_Sketch_8.jpg,69,S32,g.69,No generalization
+JK_Sketch_8.jpg,72 70 71,S34 S33,g.70.71.72,Abstraction to show existence
+JK_Sketch_8.jpg,59,S35,g.59,No generalization
+JK_Sketch_8.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S31,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+JK_Sketch_8.jpg,56 53 54 55,S29,g.53.54.55.56,Amalgamation
+JK_Sketch_8.jpg,47,S28,g.47,No generalization
+JK_Sketch_8.jpg,48 49 50 51,S9,g.48.49.50.51,Amalgamation
+JK_Sketch_8.jpg,Features missing in sketch map,"4,5,6,15,20,21,30,33,38,43,111,114,119,133,134,135,136,137,138,140,146,57,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+JK_Sketch_8.jpg,Features drawn extra in sketch map, S10,S11,S12,S13,S14,S16,S30
+   
+JK_Sketch_9.jpg,46,S2,g.46,No generalization
+JK_Sketch_9.jpg,42 35 44,S1,g.35.42.44,OmissionMerge
+JK_Sketch_9.jpg,0,S0,g.0,No generalization
+JK_Sketch_9.jpg,128 130 131 132 122 123 124 125 126 127,S4,g.122.123.124.125.126.127.128.130.131.132,OmissionMerge
+JK_Sketch_9.jpg,11,S5,g.11,No generalization
+JK_Sketch_9.jpg,72 70 71,S18,g.70.71.72,Amalgamation
+JK_Sketch_9.jpg,12,S6,g.12,No generalization
+JK_Sketch_9.jpg,13,S7,g.13,No generalization
+JK_Sketch_9.jpg,14,S8,g.14,No generalization
+JK_Sketch_9.jpg,120 121 144 142,S9,g.120.121.142.144,OmissionMerge
+JK_Sketch_9.jpg,9,S10,g.9,No generalization
+JK_Sketch_9.jpg,25 109 110,S11,g.25.109.110,OmissionMerge
+JK_Sketch_9.jpg,24,S12,g.24,No generalization
+JK_Sketch_9.jpg,27 45 23,S3,g.23.27.45,OmissionMerge
+JK_Sketch_9.jpg,48 49 50 51,S14,g.48.49.50.51,Amalgamation
+JK_Sketch_9.jpg,82,S15,g.82,No generalization
+JK_Sketch_9.jpg,69,S20,g.69,No generalization
+JK_Sketch_9.jpg,59,S17,g.59,No generalization
+JK_Sketch_9.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S16,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+JK_Sketch_9.jpg,Features missing in sketch map,"2,4,5,6,7,8,15,20,21,26,28,29,30,32,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,83"
+JK_Sketch_9.jpg,Features drawn extra in sketch map, S13,S19
+   
+JK_Sketch_10.jpg,0,S0,g.0,No generalization
+JK_Sketch_10.jpg,42 35 44,S1,g.35.42.44,OmissionMerge
+JK_Sketch_10.jpg,46,S2,g.46,No generalization
+JK_Sketch_10.jpg,48 49 50 51,S19,g.48.49.50.51,Amalgamation
+JK_Sketch_10.jpg,32 2 7,S5,g.2.7.32,OmissionMerge
+JK_Sketch_10.jpg,28 29,S4,g.28.29,OmissionMerge
+JK_Sketch_10.jpg,45,S3,g.45,No generalization
+JK_Sketch_10.jpg,27 23,S9,g.23.27,OmissionMerge
+JK_Sketch_10.jpg,20 30,S8,g.20.30,OmissionMerge
+JK_Sketch_10.jpg,122 123 124 125,S6,g.122.123.124.125,OmissionMerge
+JK_Sketch_10.jpg,128 130 131 132 126 127,S7,g.126.127.128.130.131.132,OmissionMerge
+JK_Sketch_10.jpg,11,S14,g.11,No generalization
+JK_Sketch_10.jpg,144 120 121 110 109 142,S13,g.109.110.120.121.142.144,OmissionMerge
+JK_Sketch_10.jpg,25,S12,g.25,No generalization
+JK_Sketch_10.jpg,24,S10,g.24,No generalization
+JK_Sketch_10.jpg,26,S11,g.26,No generalization
+JK_Sketch_10.jpg,12 13 14,S15 S16,g.12.13.14,OmissionMerge
+JK_Sketch_10.jpg,59,S21,g.59,No generalization
+JK_Sketch_10.jpg,72 70 71,S22,g.70.71.72,Amalgamation
+JK_Sketch_10.jpg,84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108,S20,g.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.100.101.102.103.104.105.106.107.108,Amalgamation
+JK_Sketch_10.jpg,Features missing in sketch map,"4,5,6,8,9,15,21,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,69,73,74,76,77,78,79,80,81,82,83"
+JK_Sketch_10.jpg,Features drawn extra in sketch map, S17,S18
+   
