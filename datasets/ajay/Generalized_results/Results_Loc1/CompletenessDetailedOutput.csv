@@ -1,0 +1,420 @@
+AS_Sketch_1.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,41,12,29.27
+Landmarks(excluding group alignments),60,34,10,29.41
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,41,12,29.268292682926827
+Landmarks(including group alignments),60,34,10,29.411764705882355
+Missing Features,"2,4,5,6,7,8,9,15,20,21,28,29,30,32,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+ExtraFeatures,S1
+AverageCompleteness,29.34002869440459
+OverallCompleteness,29.333333333333332
+   
+AS_Sketch_3.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,35,11,31.43
+Landmarks(excluding group alignments),60,31,7,22.58
+No. of group alignments in Streets,1
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,36,12,33.33333333333333
+Landmarks(including group alignments),60,31,7,22.58064516129032
+Missing Features,"2,4,5,6,7,8,9,20,21,28,29,30,32,33,34,38,43,133,134,135,136,137,138,140,47,50,51,57,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+ExtraFeatures,S7,S9
+AverageCompleteness,27.956989247311824
+OverallCompleteness,28.35820895522388
+   
+AS_Sketch_2.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,45,31,68.89
+Landmarks(excluding group alignments),60,36,11,30.56
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,45,31,68.88888888888889
+Landmarks(including group alignments),60,36,11,30.555555555555557
+Missing Features,"4,5,6,33,43,111,119,133,134,135,136,137,138,140,146,47,53,54,55,56,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+ExtraFeatures,
+AverageCompleteness,49.72222222222222
+OverallCompleteness,51.85185185185185
+   
+AS_Sketch_4.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,50,40,80
+Landmarks(excluding group alignments),60,37,17,45.95
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,50,40,80
+Landmarks(including group alignments),60,37,17,45.94594594594595
+Missing Features,"111,119,133,134,135,136,137,138,140,146,58,62,63,64,65,66,67,68,69,73,74,76,77,78,79,80,81,82,83,87"
+ExtraFeatures,S35
+AverageCompleteness,62.972972972972975
+OverallCompleteness,65.51724137931035
+   
+AS_Sketch_5.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,34,12,35.29
+Landmarks(excluding group alignments),60,15,9,60
+No. of group alignments in Streets,1
+No. of groups alignments in Landmarks,2
+Street segments(including group alignments),60,35,13,37.142857142857146
+Landmarks(including group alignments),60,17,11,64.70588235294117
+Missing Features,"2,4,5,6,7,8,11,15,20,21,28,29,30,32,33,34,38,43,111,114,119,146,53,54,55,56,57,58"
+ExtraFeatures,
+AverageCompleteness,50.92436974789916
+OverallCompleteness,46.15384615384615
+   
+AS_Sketch_6.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,40,12,30
+Landmarks(excluding group alignments),60,36,6,16.67
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,40,12,30
+Landmarks(including group alignments),60,36,6,16.666666666666664
+Missing Features,"2,4,5,6,7,8,9,15,20,21,28,29,30,32,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,76,77,78,79,80,81,82,83"
+ExtraFeatures,S0,S3
+AverageCompleteness,23.333333333333332
+OverallCompleteness,23.684210526315788
+   
+AS_Sketch_7.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,43,28,65.12
+Landmarks(excluding group alignments),60,33,18,54.55
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,43,28,65.11627906976744
+Landmarks(including group alignments),60,33,18,54.54545454545454
+Missing Features,"4,5,6,33,43,111,114,119,133,134,135,136,137,138,140,146,62,63,64,65,66,67,68,73,74,76,77,78,79,80,83"
+ExtraFeatures,S9,S18,S48
+AverageCompleteness,59.83086680761099
+OverallCompleteness,60.526315789473685
+   
+AS_Sketch_8.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,38,20,52.63
+Landmarks(excluding group alignments),60,28,7,25
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,38,20,52.63157894736842
+Landmarks(including group alignments),60,28,7,25
+Missing Features,"4,5,6,15,20,21,30,33,38,43,111,114,119,133,134,135,136,137,138,140,146,57,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+ExtraFeatures,S7,S12,S13,S14,S15,S16,S19,S35
+AverageCompleteness,38.815789473684205
+OverallCompleteness,40.909090909090914
+   
+AS_Sketch_9.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,41,13,31.71
+Landmarks(excluding group alignments),60,31,6,19.35
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,41,13,31.70731707317073
+Landmarks(including group alignments),60,31,6,19.35483870967742
+Missing Features,"2,4,5,6,7,8,15,20,21,26,28,29,30,32,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,83"
+ExtraFeatures,S7,S22
+AverageCompleteness,25.531077891424076
+OverallCompleteness,26.38888888888889
+   
+AS_Sketch_10.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,38,17,44.74
+Landmarks(excluding group alignments),60,32,4,12.5
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,38,17,44.73684210526316
+Landmarks(including group alignments),60,32,4,12.5
+Missing Features,"4,5,6,8,9,12,15,21,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,69,73,74,76,77,78,79,80,81,82,83,87"
+ExtraFeatures,S12,S13
+AverageCompleteness,28.61842105263158
+OverallCompleteness,30
+   
+CM_Sketch_1.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,41,12,29.27
+Landmarks(excluding group alignments),60,34,10,29.41
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,41,12,29.268292682926827
+Landmarks(including group alignments),60,34,10,29.411764705882355
+Missing Features,"2,4,5,6,7,8,9,15,20,21,28,29,30,32,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+ExtraFeatures,S0
+AverageCompleteness,29.34002869440459
+OverallCompleteness,29.333333333333332
+   
+CM_Sketch_2.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,45,30,66.67
+Landmarks(excluding group alignments),60,36,11,30.56
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,45,30,66.66666666666666
+Landmarks(including group alignments),60,36,11,30.555555555555557
+Missing Features,"4,5,6,12,33,43,111,119,133,134,135,136,137,138,140,146,47,53,54,55,56,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+ExtraFeatures,
+AverageCompleteness,48.61111111111111
+OverallCompleteness,50.617283950617285
+   
+CM_Sketch_3.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,36,12,33.33
+Landmarks(excluding group alignments),60,27,5,18.52
+No. of group alignments in Streets,1
+No. of groups alignments in Landmarks,1
+Street segments(including group alignments),60,37,13,35.13513513513514
+Landmarks(including group alignments),60,28,6,21.428571428571427
+Missing Features,"2,4,5,6,7,8,9,20,21,28,29,30,32,33,34,38,43,133,134,135,136,137,138,140,47,57,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+ExtraFeatures,S15,S29
+AverageCompleteness,28.28185328185328
+OverallCompleteness,29.230769230769234
+   
+CM_Sketch_4.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,50,40,80
+Landmarks(excluding group alignments),60,36,18,50
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,50,40,80
+Landmarks(including group alignments),60,36,18,50
+Missing Features,"111,119,133,134,135,136,137,138,140,146,58,62,63,64,65,66,67,68,69,73,74,76,77,78,79,80,82,83"
+ExtraFeatures,S63
+AverageCompleteness,65
+OverallCompleteness,67.44186046511628
+   
+CM_Sketch_5.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,35,14,40
+Landmarks(excluding group alignments),60,15,9,60
+No. of group alignments in Streets,1
+No. of groups alignments in Landmarks,2
+Street segments(including group alignments),60,36,15,41.66666666666667
+Landmarks(including group alignments),60,17,11,64.70588235294117
+Missing Features,"2,4,5,6,7,8,15,20,21,28,29,30,32,33,34,38,43,111,114,119,146,53,54,55,56,58"
+ExtraFeatures,
+AverageCompleteness,53.18627450980392
+OverallCompleteness,49.056603773584904
+   
+CM_Sketch_6.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,41,12,29.27
+Landmarks(excluding group alignments),60,36,6,16.67
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,41,12,29.268292682926827
+Landmarks(including group alignments),60,36,6,16.666666666666664
+Missing Features,"2,4,5,6,7,8,9,15,20,21,28,29,30,32,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,76,77,78,79,80,81,82,83"
+ExtraFeatures,S1,S4
+AverageCompleteness,22.967479674796746
+OverallCompleteness,23.376623376623375
+   
+CM_Sketch_7.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,43,28,65.12
+Landmarks(excluding group alignments),60,33,18,54.55
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,43,28,65.11627906976744
+Landmarks(including group alignments),60,33,18,54.54545454545454
+Missing Features,"4,5,6,33,43,111,114,119,133,134,135,136,137,138,140,146,62,63,64,65,66,67,68,73,74,76,77,78,79,80,83"
+ExtraFeatures,S32,S46,S47
+AverageCompleteness,59.83086680761099
+OverallCompleteness,60.526315789473685
+   
+CM_Sketch_8.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,40,20,50
+Landmarks(excluding group alignments),60,28,7,25
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,40,20,50
+Landmarks(including group alignments),60,28,7,25
+Missing Features,"4,5,6,15,20,21,30,33,38,43,111,114,119,133,134,135,136,137,138,140,146,57,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+ExtraFeatures,S21,S25,S28,S31,S32,S33,S34,S35
+AverageCompleteness,37.5
+OverallCompleteness,39.705882352941174
+   
+CM_Sketch_9.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,41,13,31.71
+Landmarks(excluding group alignments),60,31,6,19.35
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,41,13,31.70731707317073
+Landmarks(including group alignments),60,31,6,19.35483870967742
+Missing Features,"2,4,5,6,7,8,15,20,21,26,28,29,30,32,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,83"
+ExtraFeatures,S17,S20
+AverageCompleteness,25.531077891424076
+OverallCompleteness,26.38888888888889
+   
+JK_Sketch_1.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,40,12,30
+Landmarks(excluding group alignments),60,30,6,20
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,1
+Street segments(including group alignments),60,40,12,30
+Landmarks(including group alignments),60,31,7,22.58064516129032
+Missing Features,"2,4,5,6,7,8,9,15,20,21,28,29,30,32,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+ExtraFeatures,S0
+AverageCompleteness,26.29032258064516
+OverallCompleteness,26.76056338028169
+   
+JK_Sketch_2.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,42,30,71.43
+Landmarks(excluding group alignments),60,36,11,30.56
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,42,30,71.42857142857143
+Landmarks(including group alignments),60,36,11,30.555555555555557
+Missing Features,"4,5,6,33,43,111,119,133,134,135,136,137,138,140,146,47,53,54,55,56,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+ExtraFeatures,
+AverageCompleteness,50.992063492063494
+OverallCompleteness,52.56410256410257
+   
+JK_Sketch_3.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,35,12,34.29
+Landmarks(excluding group alignments),60,27,5,18.52
+No. of group alignments in Streets,1
+No. of groups alignments in Landmarks,1
+Street segments(including group alignments),60,36,13,36.11111111111111
+Landmarks(including group alignments),60,28,6,21.428571428571427
+Missing Features,"2,4,5,6,7,8,9,20,21,28,29,30,32,33,34,38,43,133,134,135,136,137,138,140,47,57,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+ExtraFeatures,S18,S19
+AverageCompleteness,28.769841269841265
+OverallCompleteness,29.6875
+   
+JK_Sketch_4.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,49,39,79.59
+Landmarks(excluding group alignments),60,36,18,50
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,49,39,79.59183673469387
+Landmarks(including group alignments),60,36,18,50
+Missing Features,"111,119,133,134,135,136,137,138,140,146,58,62,63,64,65,66,67,68,69,73,74,76,77,78,79,80,82,83"
+ExtraFeatures,S30,S40
+AverageCompleteness,64.79591836734693
+OverallCompleteness,67.05882352941175
+   
+JK_Sketch_5.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,34,14,41.18
+Landmarks(excluding group alignments),60,15,9,60
+No. of group alignments in Streets,1
+No. of groups alignments in Landmarks,2
+Street segments(including group alignments),60,35,15,42.857142857142854
+Landmarks(including group alignments),60,17,11,64.70588235294117
+Missing Features,"2,4,5,6,7,8,15,20,21,28,29,30,32,33,34,38,43,111,114,119,146,53,54,55,56,58"
+ExtraFeatures,
+AverageCompleteness,53.78151260504201
+OverallCompleteness,50
+   
+CM_Sketch_10.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,38,17,44.74
+Landmarks(excluding group alignments),60,31,4,12.9
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,38,17,44.73684210526316
+Landmarks(including group alignments),60,31,4,12.903225806451612
+Missing Features,"4,5,6,8,9,12,15,21,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,69,73,74,76,77,78,79,80,81,82,83"
+ExtraFeatures,S23,S24
+AverageCompleteness,28.820033955857383
+OverallCompleteness,30.434782608695656
+   
+JK_Sketch_6.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,41,12,29.27
+Landmarks(excluding group alignments),60,32,2,6.25
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,1
+Street segments(including group alignments),60,41,12,29.268292682926827
+Landmarks(including group alignments),60,33,3,9.090909090909092
+Missing Features,"2,4,5,6,7,8,9,15,20,21,28,29,30,32,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,76,77,78,79,80,81,82,83"
+ExtraFeatures,S1,S3
+AverageCompleteness,19.17960088691796
+OverallCompleteness,20.27027027027027
+   
+JK_Sketch_7.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,43,27,62.79
+Landmarks(excluding group alignments),60,33,18,54.55
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,43,27,62.7906976744186
+Landmarks(including group alignments),60,33,18,54.54545454545454
+Missing Features,"4,5,6,11,33,43,111,114,119,133,134,135,136,137,138,140,146,62,63,64,65,66,67,68,73,74,76,77,78,79,80,83"
+ExtraFeatures,S23,S30,S35,S47
+AverageCompleteness,58.66807610993657
+OverallCompleteness,59.210526315789465
+   
+JK_Sketch_8.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,40,20,50
+Landmarks(excluding group alignments),60,27,6,22.22
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,1
+Street segments(including group alignments),60,40,20,50
+Landmarks(including group alignments),60,28,7,25
+Missing Features,"4,5,6,15,20,21,30,33,38,43,111,114,119,133,134,135,136,137,138,140,146,57,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,82,83"
+ExtraFeatures,S10,S11,S12,S13,S14,S16,S30
+AverageCompleteness,37.5
+OverallCompleteness,39.705882352941174
+   
+JK_Sketch_9.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,41,13,31.71
+Landmarks(excluding group alignments),60,31,6,19.35
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,41,13,31.70731707317073
+Landmarks(including group alignments),60,31,6,19.35483870967742
+Missing Features,"2,4,5,6,7,8,15,20,21,26,28,29,30,32,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,73,74,76,77,78,79,80,81,83"
+ExtraFeatures,S13,S19
+AverageCompleteness,25.531077891424076
+OverallCompleteness,26.38888888888889
+   
+JK_Sketch_10.jpg
+Completeness
+Spatial Features , Features in Original Metric map, Features in Generalized Metric map (Excluding Groups) , Drawn Features in Sketch map (Excluding Group), Completeness
+Street segments(excluding group alignments),60,36,17,47.22
+Landmarks(excluding group alignments),60,31,4,12.9
+No. of group alignments in Streets,0
+No. of groups alignments in Landmarks,0
+Street segments(including group alignments),60,36,17,47.22222222222222
+Landmarks(including group alignments),60,31,4,12.903225806451612
+Missing Features,"4,5,6,8,9,15,21,33,34,38,43,111,114,119,133,134,135,136,137,138,140,146,47,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,69,73,74,76,77,78,79,80,81,82,83"
+ExtraFeatures,S17,S18
+AverageCompleteness,30.062724014336915
+OverallCompleteness,31.343283582089555
+   
