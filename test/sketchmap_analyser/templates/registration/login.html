@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<form role="form" class="form-horizontal" method="post" >{% csrf_token %}
+    <div class="form-group">
+        {% for field in form %}
+            <div class="input-group">
+                <input class="form-control" id="{{ field.id_for_label }}" maxlength="30" name="{{ field.html_name }}" placeholder="{{ field.html_name }}" type="text" />
+                {{ field.errors }}
+            </div>
+        {% endfor %}
+        <input type="submit" class="btn btn-primary mybutton" value="Login" />
+    </div>
+</form>  <p> Not a registered user yet? </p> <a href="{% url 'signup' %}">Signup</a>
+{% endblock %}

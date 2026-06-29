@@ -1,0 +1,67 @@
+version: '3.2.22'
+
+services:
+  validation:
+    build: ./validation
+    command: bash -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8004"
+    ports:
+      - "8004:8004"
+    volumes:
+      - ./validation:/app
+    restart: always
+
+  generalizations:
+    build: ./generalizations
+    command: bash -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8001"
+    ports:
+      - "8001:8001"
+    volumes:
+      - ./generalizations:/app
+    restart: always
+
+  completeness:
+    build: ./completeness
+    command:  bash -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8002"
+    ports:
+      - "8002:8002"
+    volumes:
+      - ./completeness:/app
+    restart: always
+
+  qualitativerelations:
+    build: ./accuracy
+    command: bash -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8003" 
+    ports:
+      - "8003:8003"
+    volumes:
+      - ./accuracy:/app
+    restart: always
+   
+  sketchmap_analyser:
+    build: ./sketchmap_analyser
+    command: bash -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8000"
+    volumes:
+      - ./sketchmap_analyser:/app
+    ports:
+      - "8000:8000"
+    restart: always
+  
+  gmda:
+    build: ./gmda
+    command: bash -c "python manage.py migrate && python manage.py runserver 0.0.0.0:8005"
+    ports:
+      - "8005:8005"
+    volumes:
+      - ./gmda:/app
+    restart: always
+
+  bdr:
+    build: ./bdr
+    command: bash -c "python manage.py migrate && python manage.py runserver 0.0.0.0:8006"
+    ports:
+      - "8006:8006"
+    volumes:
+      - ./bdr:/app
+    restart: always
+
+  
