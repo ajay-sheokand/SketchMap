@@ -1,0 +1,16 @@
+Completeness:,100%
+Correctness:    ,      Precision: 1           Recall: 1           F-Score: 1
+Completeness of Sketch Map:,,,ID: sketchmap
+Spatial Features,Features in Base map,Drawn Features,Completeness (%)
+Street segments,3,3,100
+Landmarks,2,2,100
+Regions,0,0,0
+Overall Completeness:,,,100
+Correctness of sketch map:
+Considered Qulitative Spatial Aspects,Relations in Base Map,Relation in Sketch Map,Correct Relations,Wrong Relations,Missing Relations,Accuracy Rate (%)
+Topological Relations between Landmarks and Regions,1,1,1,0,0,100
+Linear Ordering of Landmarks along Street-segments,1,1,1,0,0,100
+Left-Right Relations of Landmarks wrt. Street-segments,2,2,2,0,0,100
+Topological Relations between Street-segments and Regions/Landmarks,6,6,6,0,0,100
+Connectivity of Street-segments,3,3,3,0,0,100
+Relative Orientation of Connected Street-segments,2,2,2,0,0,100

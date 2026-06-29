@@ -1,0 +1,7 @@
+Django==3.2.22
+django-cors-headers==4.1.0
+djangorestframework==3.14.0
+numpy==1.21.6
+shapely==2.0.2
+
+

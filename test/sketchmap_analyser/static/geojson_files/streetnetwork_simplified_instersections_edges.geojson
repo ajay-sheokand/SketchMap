@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osmid": 765938606, "highway": "service", "oneway": false, "length": 0.014126615788198902, "u_original": 7153576556, "v_original": 7153576556, "from": 0, "to": 0, "u": 0, "v": 0, "key": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 7.60461428318304, 51.933255154359124 ], [ 7.5926084, 51.9377614 ], [ 7.5921893, 51.937532 ], [ 7.5920312, 51.9376474 ], [ 7.5922635, 51.9378065 ], [ 7.5926084, 51.9377614 ] ] } },
+{ "type": "Feature", "properties": { "osmid": 765938606, "highway": "service", "oneway": false, "length": 0.014126615788198902, "u_original": 7153576556, "v_original": 7153576556, "from": 0, "to": 0, "u": 0, "v": 0, "key": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ 7.60461428318304, 51.933255154359124 ], [ 7.5926084, 51.9377614 ], [ 7.5922635, 51.9378065 ], [ 7.5920312, 51.9376474 ], [ 7.5921893, 51.937532 ], [ 7.5926084, 51.9377614 ] ] } }
+]
+}

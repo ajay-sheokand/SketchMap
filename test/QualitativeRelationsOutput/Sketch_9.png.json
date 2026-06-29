@@ -1,0 +1,3888 @@
+{
+    "properties": {
+        "map_type": "sketch_map"
+    },
+    "constraint_collection": [
+        {
+            "constraints": [
+                {
+                    "obj 1": "G29",
+                    "obj 2": 20,
+                    "relation": "dc"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 28,
+                    "relation": "dc"
+                },
+                {
+                    "obj 1": 20,
+                    "obj 2": 28,
+                    "relation": "dc"
+                }
+            ],
+            "relation_set": "RCC8",
+            "arity": 2
+        },
+        {
+            "constraints": [
+                {
+                    "obj 1": "G29",
+                    "obj 2": 0,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 1,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 2,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 5,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 6,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 7,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 8,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 9,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 10,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 11,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 12,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 13,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 14,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 15,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 16,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 17,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 18,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 19,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 21,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 22,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 23,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 24,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 25,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 26,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 27,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 20,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 20,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 20,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 20,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 20,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 20,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 20,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 20,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 20,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 20,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 20,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 20,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 20,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 20,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 20,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 20,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 18,
+                    "obj 2": 20,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 18,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 19,
+                    "obj 2": 20,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 19,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 20,
+                    "obj 2": 21,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 20,
+                    "obj 2": 22,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 20,
+                    "obj 2": 23,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 20,
+                    "obj 2": 24,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 20,
+                    "obj 2": 25,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 20,
+                    "obj 2": 26,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 20,
+                    "obj 2": 27,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 21,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 22,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 23,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 24,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 25,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 26,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                },
+                {
+                    "obj 1": 27,
+                    "obj 2": 28,
+                    "relation": "disjoint"
+                }
+            ],
+            "relation_set": "DE9IM",
+            "arity": 2
+        },
+        {
+            "constraints": [
+                {
+                    "obj 1": 0,
+                    "obj 2": "G29",
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 20,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 28,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": "G29",
+                    "relation": "crosses"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 20,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 28,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": "G29",
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 20,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 28,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": "G29",
+                    "relation": "left"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 20,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 28,
+                    "relation": "right"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": "G29",
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 20,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 28,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": "G29",
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 20,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 28,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": "G29",
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 20,
+                    "relation": "left"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 28,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": "G29",
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 20,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 28,
+                    "relation": "nonAdjacent"
+                }
+            ],
+            "relation_set": "leftRight",
+            "arity": 2
+        },
+        {
+            "constraints": [
+                {
+                    "obj 1": 0,
+                    "obj 2": 1,
+                    "relation": "front_of"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 2,
+                    "relation": "front_of"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 5,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 6,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 7,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 8,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 9,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 10,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 11,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 12,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 13,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 14,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 15,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 16,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 17,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 18,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 19,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 21,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 22,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 23,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 2,
+                    "relation": "front_of"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 5,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 6,
+                    "relation": "right_of"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 7,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 8,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 9,
+                    "relation": "right_of"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 10,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 11,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 12,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 13,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 14,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 15,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 16,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 17,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 18,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 19,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 21,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 22,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 23,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 5,
+                    "relation": "front_of"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 6,
+                    "relation": "half_right"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 7,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 8,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 9,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 10,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 11,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 12,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 13,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 14,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 15,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 16,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 17,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 18,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 19,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 21,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 22,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 23,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 6,
+                    "relation": "half_right"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 7,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 8,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 9,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 10,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 11,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 12,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 13,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 14,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 15,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 16,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 17,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 18,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 19,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 21,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 22,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 23,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 24,
+                    "relation": "half_left"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 25,
+                    "relation": "front_of"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 7,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 8,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 9,
+                    "relation": "half_right"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 10,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 11,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 12,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 13,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 14,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 15,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 16,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 17,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 18,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 19,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 21,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 22,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 23,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 8,
+                    "relation": "right_of"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 9,
+                    "relation": "right_of"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 10,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 11,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 12,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 13,
+                    "relation": "left_of"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 14,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 15,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 16,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 17,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 18,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 19,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 21,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 22,
+                    "relation": "front_of"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 23,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 9,
+                    "relation": "front_of"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 10,
+                    "relation": "left_of"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 11,
+                    "relation": "front_of"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 12,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 13,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 14,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 15,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 16,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 17,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 18,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 19,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 21,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 22,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 23,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 10,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 11,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 12,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 13,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 14,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 15,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 16,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 17,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 18,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 19,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 21,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 22,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 23,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 11,
+                    "relation": "right_of"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 12,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 13,
+                    "relation": "left_of"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 14,
+                    "relation": "left_of"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 15,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 16,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 17,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 18,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 19,
+                    "relation": "front_of"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 21,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 22,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 23,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 12,
+                    "relation": "right_of"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 13,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 14,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 15,
+                    "relation": "right_of"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 16,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 17,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 18,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 19,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 21,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 22,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 23,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 13,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 14,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 15,
+                    "relation": "front_of"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 16,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 17,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 18,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 19,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 21,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 22,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 23,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 14,
+                    "relation": "front_of"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 15,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 16,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 17,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 18,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 19,
+                    "relation": "right_of"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 21,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 22,
+                    "relation": "right_of"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 23,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 15,
+                    "relation": "left_of"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 16,
+                    "relation": "left_of"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 17,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 18,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 19,
+                    "relation": "right_of"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 21,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 22,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 23,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 16,
+                    "relation": "front_of"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 17,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 18,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 19,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 21,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 22,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 23,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 17,
+                    "relation": "front_of"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 18,
+                    "relation": "left_of"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 19,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 21,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 22,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 23,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 18,
+                    "relation": "left_of"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 19,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 21,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 22,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 23,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 18,
+                    "obj 2": 19,
+                    "relation": "left_of"
+                },
+                {
+                    "obj 1": 18,
+                    "obj 2": 21,
+                    "relation": "front_of"
+                },
+                {
+                    "obj 1": 18,
+                    "obj 2": 22,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 18,
+                    "obj 2": 23,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 18,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 18,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 18,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 18,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 19,
+                    "obj 2": 21,
+                    "relation": "right_of"
+                },
+                {
+                    "obj 1": 19,
+                    "obj 2": 22,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 19,
+                    "obj 2": 23,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 19,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 19,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 19,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 19,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 21,
+                    "obj 2": 22,
+                    "relation": "left_of"
+                },
+                {
+                    "obj 1": 21,
+                    "obj 2": 23,
+                    "relation": "front_of"
+                },
+                {
+                    "obj 1": 21,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 21,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 21,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 21,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 22,
+                    "obj 2": 23,
+                    "relation": "right_of"
+                },
+                {
+                    "obj 1": 22,
+                    "obj 2": 24,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 22,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 22,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 22,
+                    "obj 2": 27,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 23,
+                    "obj 2": 24,
+                    "relation": "left_of"
+                },
+                {
+                    "obj 1": 23,
+                    "obj 2": 25,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 23,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 23,
+                    "obj 2": 27,
+                    "relation": "right_of"
+                },
+                {
+                    "obj 1": 24,
+                    "obj 2": 25,
+                    "relation": "half_right"
+                },
+                {
+                    "obj 1": 24,
+                    "obj 2": 26,
+                    "relation": "nonAdjacent"
+                },
+                {
+                    "obj 1": 24,
+                    "obj 2": 27,
+                    "relation": "left_of"
+                },
+                {
+                    "obj 1": 25,
+                    "obj 2": 26,
+                    "relation": "half_right"
+                },
+                {
+                    "obj 1": 25,
+                    "obj 2": 27,
+                    "relation": "left_of"
+                },
+                {
+                    "obj 1": 26,
+                    "obj 2": 27,
+                    "relation": "left_of"
+                }
+            ],
+            "relation_set": "opra",
+            "arity": 2
+        },
+        {
+            "constraints": [
+                {
+                    "obj 1": 0,
+                    "obj 2": 1,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 2,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 5,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 6,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 7,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 8,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 9,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 10,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 11,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 12,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 13,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 14,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 15,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 16,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 17,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 18,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 19,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 21,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 22,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 23,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 0,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 2,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 5,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 6,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 7,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 8,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 9,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 10,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 11,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 12,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 13,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 14,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 15,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 16,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 17,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 18,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 19,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 21,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 22,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 23,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 1,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 5,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 6,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 7,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 8,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 9,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 10,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 11,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 12,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 13,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 14,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 15,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 16,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 17,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 18,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 19,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 21,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 22,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 23,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 2,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 6,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 7,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 8,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 9,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 10,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 11,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 12,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 13,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 14,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 15,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 16,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 17,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 18,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 19,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 21,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 22,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 23,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 24,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 25,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 5,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 7,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 8,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 9,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 10,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 11,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 12,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 13,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 14,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 15,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 16,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 17,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 18,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 19,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 21,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 22,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 23,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 6,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 8,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 9,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 10,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 11,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 12,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 13,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 14,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 15,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 16,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 17,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 18,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 19,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 21,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 22,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 23,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 7,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 9,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 10,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 11,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 12,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 13,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 14,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 15,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 16,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 17,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 18,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 19,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 21,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 22,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 23,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 8,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 10,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 11,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 12,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 13,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 14,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 15,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 16,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 17,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 18,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 19,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 21,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 22,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 23,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 9,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 11,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 12,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 13,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 14,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 15,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 16,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 17,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 18,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 19,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 21,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 22,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 23,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 10,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 12,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 13,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 14,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 15,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 16,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 17,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 18,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 19,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 21,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 22,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 23,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 11,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 13,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 14,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 15,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 16,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 17,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 18,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 19,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 21,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 22,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 23,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 12,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 14,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 15,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 16,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 17,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 18,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 19,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 21,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 22,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 23,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 13,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 15,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 16,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 17,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 18,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 19,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 21,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 22,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 23,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 14,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 16,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 17,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 18,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 19,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 21,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 22,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 23,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 15,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 17,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 18,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 19,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 21,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 22,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 23,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 16,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 18,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 19,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 21,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 22,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 23,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 17,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 18,
+                    "obj 2": 19,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 18,
+                    "obj 2": 21,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 18,
+                    "obj 2": 22,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 18,
+                    "obj 2": 23,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 18,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 18,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 18,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 18,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 19,
+                    "obj 2": 21,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 19,
+                    "obj 2": 22,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 19,
+                    "obj 2": 23,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 19,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 19,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 19,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 19,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 21,
+                    "obj 2": 22,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 21,
+                    "obj 2": 23,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 21,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 21,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 21,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 21,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 22,
+                    "obj 2": 23,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 22,
+                    "obj 2": 24,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 22,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 22,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 22,
+                    "obj 2": 27,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 23,
+                    "obj 2": 24,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 23,
+                    "obj 2": 25,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 23,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 23,
+                    "obj 2": 27,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 24,
+                    "obj 2": 25,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 24,
+                    "obj 2": 26,
+                    "relation": "disconnected"
+                },
+                {
+                    "obj 1": 24,
+                    "obj 2": 27,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 25,
+                    "obj 2": 26,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 25,
+                    "obj 2": 27,
+                    "relation": "connected"
+                },
+                {
+                    "obj 1": 26,
+                    "obj 2": 27,
+                    "relation": "connected"
+                }
+            ],
+            "relation_set": "streetTopology",
+            "arity": 2
+        },
+        {
+            "constraints": [
+                {
+                    "obj 1": "G29",
+                    "obj 2": 20,
+                    "relation": "after"
+                },
+                {
+                    "obj 1": "G29",
+                    "obj 2": 28,
+                    "relation": "overlapped_by"
+                },
+                {
+                    "obj 1": 20,
+                    "obj 2": 28,
+                    "relation": "before"
+                }
+            ],
+            "relation_set": "linearOrdering",
+            "arity": 2
+        }
+    ],
+    "features": [
+        {
+            "mapType": "Sketch",
+            "id": "G29",
+            "sid": "S33",
+            "isRoute": null,
+            "feat_type": "Landmark",
+            "selected": false,
+            "aligned": true,
+            "otype": "Polygon",
+            "group": true,
+            "groupID": "29",
+            "geometry_type": "Polygon"
+        },
+        {
+            "id": 0,
+            "sid": "S0",
+            "isRoute": "Yes",
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "SketchRouteSeqOrder": null,
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 1,
+            "sid": "S1",
+            "isRoute": "Yes",
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "SketchRouteSeqOrder": null,
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 2,
+            "sid": "S2",
+            "isRoute": null,
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 5,
+            "sid": "S5",
+            "isRoute": null,
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 6,
+            "sid": "S6",
+            "isRoute": null,
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 7,
+            "sid": "S7",
+            "isRoute": null,
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 8,
+            "sid": "S8",
+            "isRoute": "Yes",
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "SketchRouteSeqOrder": null,
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 9,
+            "sid": "S9",
+            "isRoute": "Yes",
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "SketchRouteSeqOrder": null,
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 10,
+            "sid": "S10",
+            "isRoute": null,
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 11,
+            "sid": "S11",
+            "isRoute": "Yes",
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "SketchRouteSeqOrder": null,
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 12,
+            "sid": "S12",
+            "isRoute": null,
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 13,
+            "sid": "S13",
+            "isRoute": null,
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 14,
+            "sid": "S14",
+            "isRoute": null,
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 15,
+            "sid": "S15",
+            "isRoute": "Yes",
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "SketchRouteSeqOrder": null,
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 16,
+            "sid": "S16",
+            "isRoute": "Yes",
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "SketchRouteSeqOrder": null,
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 17,
+            "sid": "S17",
+            "isRoute": "Yes",
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "SketchRouteSeqOrder": null,
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 18,
+            "sid": "S18",
+            "isRoute": null,
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 19,
+            "sid": "S19",
+            "isRoute": null,
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 20,
+            "sid": "S20",
+            "isRoute": null,
+            "feat_type": "Landmark",
+            "selected": false,
+            "aligned": true,
+            "otype": "Polygon",
+            "mapType": "Sketch",
+            "geometry_type": "Polygon"
+        },
+        {
+            "id": 21,
+            "sid": "S21",
+            "isRoute": null,
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 22,
+            "sid": "S22",
+            "isRoute": null,
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 23,
+            "sid": "S23",
+            "isRoute": null,
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 24,
+            "sid": "S24",
+            "isRoute": null,
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 25,
+            "sid": "S25",
+            "isRoute": null,
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 26,
+            "sid": "S26",
+            "isRoute": null,
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 27,
+            "sid": "S27",
+            "isRoute": null,
+            "feat_type": null,
+            "selected": false,
+            "aligned": true,
+            "otype": "Line",
+            "mapType": "Sketch",
+            "geometry_type": "LineString"
+        },
+        {
+            "id": 28,
+            "sid": "S28",
+            "isRoute": null,
+            "feat_type": "Landmark",
+            "selected": false,
+            "aligned": true,
+            "otype": "Polygon",
+            "mapType": "Sketch",
+            "geometry_type": "Polygon"
+        }
+    ]
+}
